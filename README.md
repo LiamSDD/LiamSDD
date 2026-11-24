@@ -10,6 +10,57 @@ I build AI products and ship them. For about two years I have worked with coding
 
 B.Sc. Applied Artificial Intelligence, 2026. Open to remote roles building AI agents and LLM products, with no visa needed in the EU or Canada.
 
+## Featured work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [Claude Code Harness Pro Max](https://github.com/LiamSDD/claude-code-harness-pro-max)
+`open source` `Python` `AI agents`
+
+Guardrails, cost control and engineering discipline for AI coding agents. It blocks destructive commands and leaked secrets, cuts wasted tokens, enforces limits on replies, prompts and budgets, and routes subagents to the right model.
+
+**21 skills** · **7 agents** · **19 hooks** · **238 tests** · **0 dependencies**<br>
+Works with Claude Code, Codex, Cursor, Gemini CLI, Antigravity and Kimi.
+
+</td>
+<td width="50%" valign="top">
+
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/aegis-logo-white-text.svg"><source media="(prefers-color-scheme: light)" srcset="assets/aegis-logo-black-text.svg"><img alt="Aegis" src="assets/aegis-logo-white-text.svg" height="30"></picture>
+`product` `C++` `security`
+
+All-in-one authentication and DRM for games and software. It protects builds on the client and the server against cracking, debugging and tampering, using licence keys, hardware lock, integrity checks, code virtualisation and packing.
+
+**3,000+ licence keys sold** to mid-size studios shipping on Steam and to independent developers.<br>
+[shieldaegis.cloud](https://shieldaegis.cloud) · source is private
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ChatFlow
+`product` `LLM assistant` `automation`
+
+An AI assistant that answers Instagram Direct, Facebook Messenger and WhatsApp conversations in a natural tone, so no lead is lost to an unanswered message.
+
+Source is private.
+
+</td>
+<td width="50%" valign="top">
+
+### Vocalis
+`product` `generative audio`
+
+Turns a consented voice, an instrumental and a prompt or lyrics into a complete song in that voice, at the chosen tempo.
+
+Source is private.
+
+</td>
+</tr>
+</table>
+
 ## How I work
 
 - **Harness first.** Every model I use runs inside a harness of skills, permissions, hooks and subagents, so its output is safe, cheap and repeatable.
