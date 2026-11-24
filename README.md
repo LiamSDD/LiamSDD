@@ -12,7 +12,7 @@
 <tr>
 <td align="center"><b>3,000+</b><br><sub>licence keys sold<br>with Aegis</sub></td>
 <td align="center"><b>4</b><br><sub>products shipped<br>end to end</sub></td>
-<td align="center"><b>570</b><br><sub>tests across my<br>open-source tools</sub></td>
+<td align="center"><b>649</b><br><sub>tests across my<br>open-source tools</sub></td>
 <td align="center"><b>~2 years</b><br><sub>shipping with coding<br>agents every day</sub></td>
 <td align="center"><b>B.Sc.</b><br><sub>Applied AI<br>2026</sub></td>
 </tr>
@@ -61,7 +61,7 @@ All-in-one authentication and DRM for games and software. It protects builds on 
 
 See where your Claude Code tokens and dollars go. Reads local transcripts and breaks spend down by model, project, day, session and subagent, then suggests savings with their dollar impact.
 
-**0 dependencies** · **109 tests** · read-only and offline
+**0 dependencies** · **136 tests** · Markdown, JSON and CSV output
 
 </td>
 <td width="50%" valign="top">
@@ -71,7 +71,7 @@ See where your Claude Code tokens and dollars go. Reads local transcripts and br
 
 Zero-dependency SVG rasterizer. Renders SVG paths and shapes to anti-aliased, transparent PNGs with no Cairo, no Pillow and no native code.
 
-**0 dependencies** · **223 tests** · 512 px render in 0.3 s
+**0 dependencies** · **275 tests** · 512 px render in 0.3 s
 
 </td>
 </tr>
