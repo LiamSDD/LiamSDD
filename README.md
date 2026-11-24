@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="LiamSDD, Applied AI Engineer. I build software, apps and products with AI in the loop: clean code, real harnesses, users first. Available for work, remote, EU and Canada." src="assets/banner-dark.svg" width="100%">
+  <img alt="LiamSDD, Applied AI Engineer. I build software, apps and products with AI in the loop: clean code, real harnesses, users first. Available for work, remote, EU and Canada. Building Aegis and Uplyze." src="assets/banner-dark.svg" width="100%">
 </picture>
 
 **Applied AI Engineer.** I engineer software, applications and products with AI built into the way I work. My code is clean, tested and easy to review. Coding agents run inside proper harnesses, and every decision starts from the user's experience.
@@ -9,7 +9,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
-  <img alt="3,000+ licence keys sold with Aegis. 4 products built and shipped. About 2 years engineering with coding agents daily. 374 tests in my open-source tools." src="assets/stats-dark.svg" width="100%">
+  <img alt="3,000+ licence keys sold with Aegis. 5 products built and shipped. About 2 years engineering with coding agents daily. 374 tests in my open-source tools." src="assets/stats-dark.svg" width="100%">
 </picture>
 
 ## What I bring on day one
@@ -19,7 +19,7 @@
 - **Users before features.** I start from what the user sees and needs, then engineer backwards to fast, clear, simple flows. I don't ship a feature I wouldn't want to use myself.
 - **AI that stays affordable.** Model routing, prompt caching, token budgets and spend reporting keep AI features cheap to run at scale. See [claude-ledger](https://github.com/LiamSDD/claude-ledger).
 - **Security built in.** Licensing, anti-tamper, anti-debug and secret scanning by default, proven in [Aegis](https://shieldaegis.cloud) with 3,000+ licence keys sold.
-- **Ownership from idea to release.** I have designed, built, shipped and sold my own products, so I can own a feature end to end and keep sight of what users actually pay for.
+- **Ownership from idea to release.** I have designed, built, shipped and sold my own products, so I can own a feature end to end and keep sight of what users actually pay for. See [Uplyze](https://uplyze.ai) and [Aegis](https://shieldaegis.cloud).
 
 ## Featured work
 
@@ -51,6 +51,16 @@ Authentication and DRM for games and software. It protects builds on the client 
 <tr>
 <td width="50%" valign="top">
 
+### [Uplyze](https://uplyze.ai)
+`product` `AI copilot` `growth automation`
+
+All-in-one growth AI for creators, agencies and businesses. An AI copilot analyses content performance, plans and schedules posts, and automates marketing and sales workflows, replacing a stack of separate tools.
+
+[uplyze.ai](https://uplyze.ai) · live product with Starter, Pro and Studio plans
+
+</td>
+<td width="50%" valign="top">
+
 ### [claude-ledger](https://github.com/LiamSDD/claude-ledger)
 `open source` `Python` `LLM cost`
 
@@ -59,6 +69,8 @@ Shows where Claude Code tokens and dollars go, by model, project, day, session a
 **136 tests** · **0 dependencies** · Markdown, JSON and CSV output
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### ChatFlow
@@ -69,14 +81,14 @@ An AI assistant that answers Instagram Direct, Facebook Messenger and WhatsApp c
 Source is private.
 
 </td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
+<td width="50%" valign="top">
 
 ### Vocalis
 `product` `generative audio`
 
-Turns a consented voice, an instrumental and a prompt or lyrics into a complete song in that voice, at the chosen tempo. Source is private.
+Turns a consented voice, an instrumental and a prompt or lyrics into a complete song in that voice, at the chosen tempo.
+
+Source is private.
 
 </td>
 </tr>
