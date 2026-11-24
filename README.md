@@ -1,14 +1,30 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="LiamSDD. AI agents, LLM tooling and software security." src="assets/banner-dark.svg" width="100%">
+  <img alt="LiamSDD, Applied AI Engineer. AI agents, LLM tooling and software security. Open to work." src="assets/banner-dark.svg" width="100%">
 </picture>
 
 <br>
 
-I build AI products and ship them. For about two years I have worked with coding agents every day, and I build the harness around them: skills, tools, permissions, hooks and subagents. That lets a team of agents turn a spec into tested, released software. I also build software protection: licensing, anti-tamper and anti-debug for games and desktop apps.
+**Applied AI Engineer.** I take LLMs from prototype to shipped product: AI agents, the harnesses that keep them safe and cheap, and the security around the software they ship.
 
-B.Sc. Applied Artificial Intelligence, 2026. Open to remote roles building AI agents and LLM products, with no visa needed in the EU or Canada.
+<table>
+<tr>
+<td align="center"><b>3,000+</b><br><sub>licence keys sold<br>with Aegis</sub></td>
+<td align="center"><b>4</b><br><sub>products shipped<br>end to end</sub></td>
+<td align="center"><b>570</b><br><sub>tests across my<br>open-source tools</sub></td>
+<td align="center"><b>~2 years</b><br><sub>shipping with coding<br>agents every day</sub></td>
+<td align="center"><b>B.Sc.</b><br><sub>Applied AI<br>2026</sub></td>
+</tr>
+</table>
+
+## What I bring on day one
+
+- **Agents that ship.** I design multi-agent workflows (plan, build, review, verify) and the harness around them: skills, tools, permissions, hooks, subagent routing. See [Claude Code Harness Pro Max](https://github.com/LiamSDD/claude-code-harness-pro-max).
+- **LLM cost under control.** Token budgets, caching, model routing and usage reporting, so AI features stay affordable at scale. See [claude-ledger](https://github.com/LiamSDD/claude-ledger).
+- **Production engineering.** Test-first code, zero-dependency libraries, clear docs and releases. See [pixelpath](https://github.com/LiamSDD/pixelpath).
+- **Security by default.** Licensing, anti-tamper and anti-debug in a product with paying customers. See [Aegis](https://shieldaegis.cloud).
+- **Product sense.** I have built and sold products myself, so I care about what users pay for, not only what is technically interesting.
 
 ## Featured work
 
@@ -114,6 +130,8 @@ Source is private.
 **Focus**<br>
 `agent harnesses` `multi-agent workflows` `prompt and task design` `LLM cost control` `licensing and DRM` `anti-tamper` `generative media`
 
----
+## Hiring?
 
-<sub>Contact details are on my CV.</sub>
+I am open to **Applied AI Engineer** roles: AI agents, LLM products and AI tooling. Remote, with no visa needed in the EU or Canada.
+
+My contact details are on my CV, or you can reach me through [shieldaegis.cloud/contact](https://shieldaegis.cloud/contact).
