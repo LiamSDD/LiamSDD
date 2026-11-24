@@ -40,6 +40,28 @@ All-in-one authentication and DRM for games and software. It protects builds on 
 <tr>
 <td width="50%" valign="top">
 
+### [claude-ledger](https://github.com/LiamSDD/claude-ledger)
+`open source` `Python` `CLI`
+
+See where your Claude Code tokens and dollars go. Reads local transcripts and breaks spend down by model, project, day, session and subagent, then suggests savings with their dollar impact.
+
+**0 dependencies** · **109 tests** · read-only and offline
+
+</td>
+<td width="50%" valign="top">
+
+### [pixelpath](https://github.com/LiamSDD/pixelpath)
+`open source` `Python` `graphics`
+
+Zero-dependency SVG rasterizer. Renders SVG paths and shapes to anti-aliased, transparent PNGs with no Cairo, no Pillow and no native code.
+
+**0 dependencies** · **223 tests** · 512 px render in 0.3 s
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### ChatFlow
 `product` `LLM assistant` `automation`
 
