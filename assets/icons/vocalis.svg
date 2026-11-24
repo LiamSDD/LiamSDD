@@ -1,5 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 64 64" role="img" aria-label="Vocalis">
-<rect x="0.75" y="0.75" width="62.5" height="62.5" rx="14" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
-<circle cx="32" cy="32" r="17" fill="none" stroke="#F43F8E" stroke-width="2.6" opacity="0.55"/>
-<path d="M22 32v0M26.5 27v10M31 22v20M35.5 26v12M40 30v4M44 32v0" stroke="#F472B6" stroke-width="3" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Vocalis">
+<title>Vocalis</title>
+<defs>
+<filter id="drop" x="-30%" y="-30%" width="160%" height="170%">
+  <feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#000" flood-opacity="0.38"/>
+</filter>
+<filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
+  <feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#000" flood-opacity="0.35"/>
+</filter>
+<radialGradient id="orb" cx="0.34" cy="0.28" r="0.85">
+  <stop offset="0" stop-color="#FFD1E8"/><stop offset="0.25" stop-color="#F472B6"/><stop offset="0.6" stop-color="#C026D3"/><stop offset="1" stop-color="#4C0F7A"/>
+</radialGradient>
+<linearGradient id="ring" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#F9A8D4"/><stop offset="0.5" stop-color="#E879F9"/><stop offset="1" stop-color="#A855F7"/>
+</linearGradient>
+<linearGradient id="wave" x1="0" y1="0" x2="0" y2="1">
+  <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.6" stop-color="#FCE7F3"/><stop offset="1" stop-color="#F5D0FE"/>
+</linearGradient>
+<radialGradient id="spec" cx="0.5" cy="0.5" r="0.5">
+  <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.85"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
+</radialGradient>
+<clipPath id="orbClip"><circle cx="256" cy="256" r="168"/></clipPath>
+</defs>
+<ellipse cx="256" cy="262" rx="226" ry="70" fill="none" stroke="url(#ring)" stroke-width="22" opacity="0.55" transform="rotate(-16 256 256)"/>
+<g filter="url(#drop)">
+  <circle cx="256" cy="256" r="168" fill="url(#orb)"/>
+  <g clip-path="url(#orbClip)">
+    <circle cx="256" cy="420" r="190" fill="#2E0750" opacity="0.35"/>
+  </g>
+</g>
+<g filter="url(#soft)"><rect x="151" y="227.0" width="30" height="70" rx="15" fill="#4A0B3A" opacity="0.45"/>
+<rect x="151" y="221.0" width="30" height="70" rx="15" fill="url(#wave)"/>
+<rect x="158" y="229.0" width="8" height="30" rx="4" fill="#FFFFFF" opacity="0.6"/><rect x="196" y="192.0" width="30" height="140" rx="15" fill="#4A0B3A" opacity="0.45"/>
+<rect x="196" y="186.0" width="30" height="140" rx="15" fill="url(#wave)"/>
+<rect x="203" y="194.0" width="8" height="100" rx="4" fill="#FFFFFF" opacity="0.6"/><rect x="241" y="157.0" width="30" height="210" rx="15" fill="#4A0B3A" opacity="0.45"/>
+<rect x="241" y="151.0" width="30" height="210" rx="15" fill="url(#wave)"/>
+<rect x="248" y="159.0" width="8" height="170" rx="4" fill="#FFFFFF" opacity="0.6"/><rect x="286" y="187.0" width="30" height="150" rx="15" fill="#4A0B3A" opacity="0.45"/>
+<rect x="286" y="181.0" width="30" height="150" rx="15" fill="url(#wave)"/>
+<rect x="293" y="189.0" width="8" height="110" rx="4" fill="#FFFFFF" opacity="0.6"/><rect x="331" y="220.0" width="30" height="84" rx="15" fill="#4A0B3A" opacity="0.45"/>
+<rect x="331" y="214.0" width="30" height="84" rx="15" fill="url(#wave)"/>
+<rect x="338" y="222.0" width="8" height="44" rx="4" fill="#FFFFFF" opacity="0.6"/></g>
+<ellipse cx="196" cy="158" rx="78" ry="42" fill="url(#spec)" transform="rotate(-28 196 158)"/>
+<path d="M44 300 A226 70 -16 0 0 468 220" fill="none" stroke="url(#ring)" stroke-width="22" stroke-linecap="round" transform="rotate(-16 256 256) rotate(16 256 256)"/>
 </svg>

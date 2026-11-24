@@ -27,7 +27,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<img src="assets/icons/harness.svg" alt="" width="44" height="44">
+<img src="assets/icons/harness.svg" alt="" width="52" height="52">
 
 ### [Claude Code Harness Pro Max](https://github.com/LiamSDD/claude-code-harness-pro-max)
 `flagship` `open source` `Python` `Claude Code`
@@ -40,7 +40,7 @@ Works with Claude Code, Codex, Cursor, Gemini CLI, Antigravity and Kimi. It is t
 </td>
 <td width="50%" valign="top">
 
-<img src="assets/icons/delegate.svg" alt="" width="44" height="44">
+<img src="assets/icons/delegate.svg" alt="" width="52" height="52">
 
 ### [Delegate](https://github.com/LiamSDD/delegate)
 `open source` `TypeScript` `agent platform` `building`
@@ -65,7 +65,7 @@ Authentication and DRM for games and software. It protects builds on the client 
 </td>
 <td width="50%" valign="top">
 
-<img src="assets/icons/uplyze.png" alt="" width="44" height="44">
+<img src="assets/icons/uplyze.png" alt="" width="52" height="52">
 
 ### [Uplyze](https://uplyze.ai)
 `product` `AI copilot` `growth automation`
@@ -79,7 +79,7 @@ All-in-one growth AI for creators, agencies and businesses. An AI copilot analys
 <tr>
 <td width="50%" valign="top">
 
-<img src="assets/icons/claude-ledger.svg" alt="" width="44" height="44">
+<img src="assets/icons/claude-ledger.svg" alt="" width="52" height="52">
 
 ### [claude-ledger](https://github.com/LiamSDD/claude-ledger)
 `open source` `Python` `LLM cost`
@@ -91,7 +91,7 @@ Shows where Claude Code tokens and dollars go, by model, project, day, session a
 </td>
 <td width="50%" valign="top">
 
-<img src="assets/icons/chatflow.svg" alt="" width="44" height="44">
+<img src="assets/icons/chatflow.svg" alt="" width="52" height="52">
 
 ### ChatFlow
 `product` `LLM assistant` `automation`
@@ -105,7 +105,7 @@ Source is private.
 <tr>
 <td colspan="2" valign="top">
 
-<img src="assets/icons/vocalis.svg" alt="" width="44" height="44">
+<img src="assets/icons/vocalis.svg" alt="" width="52" height="52">
 
 ### Vocalis
 `product` `generative audio`
