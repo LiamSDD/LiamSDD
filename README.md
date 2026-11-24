@@ -27,7 +27,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### [Claude Code Harness Pro Max](https://github.com/LiamSDD/claude-code-harness-pro-max)
+### <img src="assets/icons/harness.svg" alt="" width="28" height="28">&nbsp;[Claude Code Harness Pro Max](https://github.com/LiamSDD/claude-code-harness-pro-max)
 `flagship` `open source` `Python` `Claude Code`
 
 The harness I use to build software with AI: it blocks destructive commands and leaked secrets, enforces limits on replies, prompts and budgets, routes subagents to the right model, and makes the agent prove its work before it says "done".
@@ -38,7 +38,7 @@ Works with Claude Code, Codex, Cursor, Gemini CLI, Antigravity and Kimi. It is t
 </td>
 <td width="50%" valign="top">
 
-### [Delegate](https://github.com/LiamSDD/delegate)
+### <img src="assets/icons/delegate.svg" alt="" width="28" height="28">&nbsp;[Delegate](https://github.com/LiamSDD/delegate)
 `open source` `TypeScript` `agent platform` `building`
 
 An enterprise agent platform that turns a company's goals into finished, verified work. A hand-written agent runtime with a quarantined reader against prompt injection, a policy engine on every tool call, an append-only event log for replay and forks, and evals with confidence intervals. Runs for $0 on keyless open models.
@@ -61,7 +61,7 @@ Authentication and DRM for games and software. It protects builds on the client 
 </td>
 <td width="50%" valign="top">
 
-### [Uplyze](https://uplyze.ai)
+### <img src="assets/icons/uplyze.png" alt="" width="28" height="28">&nbsp;[Uplyze](https://uplyze.ai)
 `product` `AI copilot` `growth automation`
 
 All-in-one growth AI for creators, agencies and businesses. An AI copilot analyses content performance, plans and schedules posts, and automates marketing and sales workflows, replacing a stack of separate tools.
@@ -73,7 +73,7 @@ All-in-one growth AI for creators, agencies and businesses. An AI copilot analys
 <tr>
 <td width="50%" valign="top">
 
-### [claude-ledger](https://github.com/LiamSDD/claude-ledger)
+### <img src="assets/icons/claude-ledger.svg" alt="" width="28" height="28">&nbsp;[claude-ledger](https://github.com/LiamSDD/claude-ledger)
 `open source` `Python` `LLM cost`
 
 Shows where Claude Code tokens and dollars go, by model, project, day, session and subagent, then suggests savings with their dollar impact. Read-only and offline.
@@ -83,7 +83,7 @@ Shows where Claude Code tokens and dollars go, by model, project, day, session a
 </td>
 <td width="50%" valign="top">
 
-### ChatFlow
+### <img src="assets/icons/chatflow.svg" alt="" width="28" height="28">&nbsp;ChatFlow
 `product` `LLM assistant` `automation`
 
 An AI assistant that answers Instagram Direct, Facebook Messenger and WhatsApp conversations in a natural tone, so no lead is lost to an unanswered message.
@@ -95,7 +95,7 @@ Source is private.
 <tr>
 <td colspan="2" valign="top">
 
-### Vocalis
+### <img src="assets/icons/vocalis.svg" alt="" width="28" height="28">&nbsp;Vocalis
 `product` `generative audio`
 
 Turns a consented voice, an instrumental and a prompt or lyrics into a complete song in that voice, at the chosen tempo. Source is private.
