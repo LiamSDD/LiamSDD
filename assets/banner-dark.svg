@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="LiamSDD. AI agents, LLM tooling and software security.">
+<defs>
+<pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#FFFFFF" stroke-opacity="0.035" stroke-width="1"/></pattern>
+<radialGradient id="r" cx="0.79" cy="0.5" r="0.42"><stop offset="0" stop-color="#3D7BFF" stop-opacity="0.22"/><stop offset="1" stop-color="#3D7BFF" stop-opacity="0"/></radialGradient>
+<linearGradient id="fade" x1="0" x2="1"><stop offset="0.45" stop-color="#0B0D12" stop-opacity="1"/><stop offset="0.62" stop-color="#0B0D12" stop-opacity="0"/></linearGradient>
+<clipPath id="c"><rect x="0.5" y="0.5" width="1279" height="319" rx="18"/></clipPath>
+</defs>
+<g clip-path="url(#c)">
+<rect width="1280" height="320" fill="#0B0D12"/>
+<rect width="1280" height="320" fill="url(#g)"/>
+<rect width="1280" height="320" fill="url(#fade)"/>
+<rect width="1280" height="320" fill="url(#r)"/>
+<path d="M1010 160 L880 80" stroke="#3D7BFF" stroke-opacity="0.55" stroke-width="1.5" stroke-dasharray="4 6"/>
+<path d="M1010 160 L1140 80" stroke="#3D7BFF" stroke-opacity="0.55" stroke-width="1.5" stroke-dasharray="4 6"/>
+<path d="M1010 160 L880 240" stroke="#3D7BFF" stroke-opacity="0.55" stroke-width="1.5" stroke-dasharray="4 6"/>
+<path d="M1010 160 L1140 240" stroke="#3D7BFF" stroke-opacity="0.55" stroke-width="1.5" stroke-dasharray="4 6"/>
+<path d="M880 80 L1140 80 M1140 240 L880 240" stroke="#5C6578" stroke-opacity="0.35" stroke-width="1"/>
+<circle cx="1010" cy="160" r="44" fill="#3D7BFF" fill-opacity="0.10"/>
+<circle cx="1010" cy="160" r="30" fill="#11141B" stroke="#3D7BFF" stroke-width="2"/>
+<path d="M1001 169 V159 A9 9 0 0 1 1019 159 V169" fill="none" stroke="#3D7BFF" stroke-width="3.2" stroke-linecap="round"/>
+<circle cx="1010" cy="162" r="2.6" fill="#3D7BFF"/>
+<text x="1010" y="216" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#9AA4B5">orchestrator</text>
+<circle cx="880" cy="80" r="18" fill="#11141B" stroke="#5C6578" stroke-opacity="0.8" stroke-width="1.5"/>
+<circle cx="880" cy="80" r="4" fill="#3D7BFF"/>
+<text x="880" y="50" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#9AA4B5">plan</text>
+<circle cx="1140" cy="80" r="18" fill="#11141B" stroke="#5C6578" stroke-opacity="0.8" stroke-width="1.5"/>
+<circle cx="1140" cy="80" r="4" fill="#3D7BFF"/>
+<text x="1140" y="50" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#9AA4B5">build</text>
+<circle cx="880" cy="240" r="18" fill="#11141B" stroke="#5C6578" stroke-opacity="0.8" stroke-width="1.5"/>
+<circle cx="880" cy="240" r="4" fill="#3D7BFF"/>
+<text x="880" y="280" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#9AA4B5">verify</text>
+<circle cx="1140" cy="240" r="18" fill="#11141B" stroke="#5C6578" stroke-opacity="0.8" stroke-width="1.5"/>
+<circle cx="1140" cy="240" r="4" fill="#3D7BFF"/>
+<text x="1140" y="280" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#9AA4B5">secure</text>
+<text x="72" y="104" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" letter-spacing="2.4" fill="#3D7BFF">AI APPLICATION DEVELOPER</text>
+<text x="70" y="178" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="-2.2" fill="#F3F5F9">LiamSDD</text>
+<text x="72" y="222" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="25" font-weight="500" fill="#9AA4B5">AI agents  ·  LLM tooling  ·  software security</text>
+<text x="72" y="262" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#5C6578">Python  /  TypeScript  /  C++  /  Claude Code  /  PyTorch</text>
+</g>
+<rect x="0.5" y="0.5" width="1279" height="319" rx="18" fill="none" stroke="#1C2130"/>
+</svg>
