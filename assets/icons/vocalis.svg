@@ -1,25 +1,51 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Vocalis">
 <title>Vocalis</title>
 <defs>
-<filter id="amb" x="-50%" y="-200%" width="200%" height="500%"><feGaussianBlur stdDeviation="12"/></filter>
-<linearGradient id="v1" gradientUnits="userSpaceOnUse" x1="96" y1="88" x2="284" y2="424"><stop offset="0" stop-color="#FFC4E3"/><stop offset="1" stop-color="#E0479E"/></linearGradient>
-<linearGradient id="v2" gradientUnits="userSpaceOnUse" x1="416" y1="88" x2="228" y2="424"><stop offset="0" stop-color="#E85BB0"/><stop offset="1" stop-color="#8E1F9C"/></linearGradient>
-<linearGradient id="v3" gradientUnits="userSpaceOnUse" x1="348" y1="88" x2="252" y2="404"><stop offset="0" stop-color="#4E0D5C"/><stop offset="1" stop-color="#2C0636"/></linearGradient>
-<linearGradient id="v4" gradientUnits="userSpaceOnUse" x1="205" y1="152.0" x2="219" y2="180.0"><stop offset="0" stop-color="#FFE4F2"/><stop offset="1" stop-color="#F58AC8"/></linearGradient>
-<linearGradient id="v5" gradientUnits="userSpaceOnUse" x1="227" y1="138.0" x2="241" y2="194.0"><stop offset="0" stop-color="#FFE4F2"/><stop offset="1" stop-color="#F58AC8"/></linearGradient>
-<linearGradient id="v6" gradientUnits="userSpaceOnUse" x1="249" y1="122.0" x2="263" y2="210.0"><stop offset="0" stop-color="#FFE4F2"/><stop offset="1" stop-color="#F58AC8"/></linearGradient>
-<linearGradient id="v7" gradientUnits="userSpaceOnUse" x1="271" y1="138.0" x2="285" y2="194.0"><stop offset="0" stop-color="#FFE4F2"/><stop offset="1" stop-color="#F58AC8"/></linearGradient>
-<linearGradient id="v8" gradientUnits="userSpaceOnUse" x1="293" y1="152.0" x2="307" y2="180.0"><stop offset="0" stop-color="#FFE4F2"/><stop offset="1" stop-color="#F58AC8"/></linearGradient>
+  <linearGradient id="v-base" x1="0.1" y1="0" x2="0.9" y2="1">
+    <stop offset="0" stop-color="#2A0636"/><stop offset="1" stop-color="#8E1C8E"/>
+  </linearGradient>
+  <radialGradient id="v-glowA" cx="0.22" cy="0.18" r="0.75">
+    <stop offset="0" stop-color="#FF6FBF" stop-opacity="0.95"/><stop offset="1" stop-color="#FF6FBF" stop-opacity="0"/>
+  </radialGradient>
+  <radialGradient id="v-glowB" cx="0.88" cy="0.92" r="0.7">
+    <stop offset="0" stop-color="#7C3AED" stop-opacity="0.9"/><stop offset="1" stop-color="#7C3AED" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="v-rim" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.55"/><stop offset="0.18" stop-color="#FFFFFF" stop-opacity="0"/>
+    <stop offset="0.82" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.35"/>
+  </linearGradient>
+  <linearGradient id="v-glyph" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#FFE3F3"/>
+  </linearGradient>
+  <filter id="v-grain" x="0" y="0" width="100%" height="100%">
+    <feTurbulence type="fractalNoise" baseFrequency="0.9" numOctaves="3" seed="7" result="n"/>
+    <feColorMatrix in="n" type="saturate" values="0" result="g"/>
+    <feComponentTransfer in="g"><feFuncA type="linear" slope="0.09"/></feComponentTransfer>
+  </filter>
+  <filter id="v-lift" x="-20%" y="-20%" width="140%" height="150%">
+    <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000000" flood-opacity="0.32"/>
+  </filter>
+  <filter id="v-tile" x="-10%" y="-10%" width="120%" height="125%">
+    <feDropShadow dx="0" dy="10" stdDeviation="10" flood-color="#000000" flood-opacity="0.28"/>
+  </filter>
+  <clipPath id="v-clip"><path d="M128 16 H384 C446 16 496 66 496 128 V384 C496 446 446 496 384 496 H128 C66 496 16 446 16 384 V128 C16 66 66 16 128 16 Z"/></clipPath>
 </defs>
-<ellipse cx="256" cy="458" rx="168" ry="16" fill="#000" opacity="0.28" filter="url(#amb)"/>
-<path d="M96 88 L164 88 L284 424 L228 424 Z" fill="url(#v1)"/>
-<path d="M348 88 L416 88 L284 424 L228 424 Z" fill="url(#v2)"/>
-<path d="M348 88 L364 100 L252 404 L240 392 Z" fill="url(#v3)"/>
-<path d="M205 152.0 L219 152.0 L219 180.0 L205 180.0 Z" fill="url(#v4)"/>
-<path d="M227 138.0 L241 138.0 L241 194.0 L227 194.0 Z" fill="url(#v5)"/>
-<path d="M249 122.0 L263 122.0 L263 210.0 L249 210.0 Z" fill="url(#v6)"/>
-<path d="M271 138.0 L285 138.0 L285 194.0 L271 194.0 Z" fill="url(#v7)"/>
-<path d="M293 152.0 L307 152.0 L307 180.0 L293 180.0 Z" fill="url(#v8)"/>
-<path d="M98 90 H162" fill="none" stroke="#FFFFFF" stroke-opacity="0.6" stroke-width="2" stroke-linecap="round"/>
-<path d="M350 90 H414" fill="none" stroke="#FFFFFF" stroke-opacity="0.6" stroke-width="2" stroke-linecap="round"/>
+<g filter="url(#v-tile)">
+  <path d="M128 16 H384 C446 16 496 66 496 128 V384 C496 446 446 496 384 496 H128 C66 496 16 446 16 384 V128 C16 66 66 16 128 16 Z" fill="url(#v-base)"/>
+</g>
+<g clip-path="url(#v-clip)">
+  <rect width="512" height="512" fill="url(#v-glowA)"/>
+  <rect width="512" height="512" fill="url(#v-glowB)"/>
+  <rect width="512" height="512" filter="url(#v-grain)"/>
+  <path d="M128 16 H384 C446 16 496 66 496 128 V384 C496 446 446 496 384 496 H128 C66 496 16 446 16 384 V128 C16 66 66 16 128 16 Z" fill="url(#v-rim)"/>
+</g>
+<path d="M128 16 H384 C446 16 496 66 496 128 V384 C496 446 446 496 384 496 H128 C66 496 16 446 16 384 V128 C16 66 66 16 128 16 Z" fill="none" stroke="#FFFFFF" stroke-opacity="0.14" stroke-width="2"/>
+<g filter="url(#v-lift)" fill="url(#v-glyph)" stroke="url(#v-glyph)">
+  <rect x="122" y="184.0" width="28" height="64" rx="14" stroke="none"/>
+  <rect x="170" y="179.0" width="28" height="110" rx="14" stroke="none"/>
+  <rect x="218" y="171.0" width="28" height="170" rx="14" stroke="none"/>
+  <rect x="266" y="171.0" width="28" height="170" rx="14" stroke="none"/>
+  <rect x="314" y="179.0" width="28" height="110" rx="14" stroke="none"/>
+  <rect x="362" y="184.0" width="28" height="64" rx="14" stroke="none"/>
+</g>
 </svg>
