@@ -1,50 +1,23 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="Claude Code Harness Pro Max">
 <title>Claude Code Harness Pro Max</title>
 <defs>
-<filter id="drop" x="-30%" y="-30%" width="160%" height="170%">
-  <feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#000" flood-opacity="0.38"/>
-</filter>
-<filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
-  <feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#000" flood-opacity="0.35"/>
-</filter>
-<linearGradient id="rim" x1="0.15" y1="0" x2="0.85" y2="1">
-  <stop offset="0" stop-color="#9BE7FF"/><stop offset="0.35" stop-color="#38BDF8"/>
-  <stop offset="0.7" stop-color="#1D6FE0"/><stop offset="1" stop-color="#123C9C"/>
-</linearGradient>
-<linearGradient id="rimEdge" x1="0" y1="0" x2="1" y2="1">
-  <stop offset="0" stop-color="#0B2A6B"/><stop offset="1" stop-color="#06173F"/>
-</linearGradient>
-<radialGradient id="face" cx="0.38" cy="0.3" r="0.85">
-  <stop offset="0" stop-color="#1F3A66"/><stop offset="0.6" stop-color="#0F1F3D"/><stop offset="1" stop-color="#081329"/>
-</radialGradient>
-<linearGradient id="bar" x1="0" y1="0" x2="1" y2="1">
-  <stop offset="0" stop-color="#E9FBFF"/><stop offset="0.35" stop-color="#7DD8FF"/><stop offset="1" stop-color="#2B86F0"/>
-</linearGradient>
-<linearGradient id="barSide" x1="0" y1="0" x2="0" y2="1">
-  <stop offset="0" stop-color="#1A5BC4"/><stop offset="1" stop-color="#0D2F78"/>
-</linearGradient>
-<linearGradient id="gloss" x1="0" y1="0" x2="0" y2="1">
-  <stop offset="0" stop-color="#FFFFFF" stop-opacity="0.55"/><stop offset="1" stop-color="#FFFFFF" stop-opacity="0"/>
-</linearGradient>
-<clipPath id="shieldClip"><path d="''' + SHIELD + '''"/></clipPath>
+<filter id="amb" x="-50%" y="-200%" width="200%" height="500%"><feGaussianBlur stdDeviation="12"/></filter>
+<linearGradient id="h1" gradientUnits="userSpaceOnUse" x1="184" y1="364" x2="328" y2="196"><stop offset="0" stop-color="#D7F3FF"/><stop offset="1" stop-color="#4DA3F5"/></linearGradient>
+<linearGradient id="h2" gradientUnits="userSpaceOnUse" x1="184" y1="300" x2="208" y2="364"><stop offset="0" stop-color="#163A8C"/><stop offset="1" stop-color="#0B1F55"/></linearGradient>
+<linearGradient id="h3" gradientUnits="userSpaceOnUse" x1="304" y1="213" x2="328" y2="277"><stop offset="0" stop-color="#163A8C"/><stop offset="1" stop-color="#0B1F55"/></linearGradient>
+<linearGradient id="h4" gradientUnits="userSpaceOnUse" x1="120" y1="88" x2="184" y2="424"><stop offset="0" stop-color="#9FE3FF"/><stop offset="1" stop-color="#2C7BE5"/></linearGradient>
+<linearGradient id="h5" gradientUnits="userSpaceOnUse" x1="328" y1="88" x2="392" y2="424"><stop offset="0" stop-color="#7CCBFF"/><stop offset="1" stop-color="#1F5FCC"/></linearGradient>
+<linearGradient id="h6" gradientUnits="userSpaceOnUse" x1="184" y1="88" x2="200" y2="424"><stop offset="0" stop-color="#163A8C"/><stop offset="1" stop-color="#0B1F55"/></linearGradient>
+<linearGradient id="h7" gradientUnits="userSpaceOnUse" x1="392" y1="88" x2="408" y2="424"><stop offset="0" stop-color="#163A8C"/><stop offset="1" stop-color="#0B1F55"/></linearGradient>
 </defs>
-<g filter="url(#drop)">
-  <path d="M256 36 L436 98 V246 C436 362 360 436 256 478 C152 436 76 362 76 246 V98 Z" transform="translate(0 10)" fill="url(#rimEdge)"/>
-  <path d="M256 36 L436 98 V246 C436 362 360 436 256 478 C152 436 76 362 76 246 V98 Z" fill="url(#rim)"/>
-  <path d="M256 82 L396 130 V248 C396 340 336 398 256 432 C176 398 116 340 116 248 V130 Z" fill="url(#face)"/>
-  <path d="M256 82 L396 130 V248 C396 340 336 398 256 432 C176 398 116 340 116 248 V130 Z" fill="none" stroke="#06173F" stroke-opacity="0.6" stroke-width="6"/>
-</g>
-<g filter="url(#soft)">
-  <rect x="178" y="166" width="50" height="196" rx="14" fill="url(#barSide)" transform="translate(0 9)"/>
-  <rect x="284" y="166" width="50" height="196" rx="14" fill="url(#barSide)" transform="translate(0 9)"/>
-  <rect x="214" y="238" width="84" height="44" rx="10" fill="url(#barSide)" transform="translate(0 9)"/>
-  <rect x="178" y="166" width="50" height="196" rx="14" fill="url(#bar)"/>
-  <rect x="284" y="166" width="50" height="196" rx="14" fill="url(#bar)"/>
-  <rect x="214" y="238" width="84" height="44" rx="10" fill="url(#bar)"/>
-  <rect x="186" y="174" width="12" height="150" rx="6" fill="#FFFFFF" opacity="0.55"/>
-  <rect x="292" y="174" width="12" height="150" rx="6" fill="#FFFFFF" opacity="0.55"/>
-</g>
-<g clip-path="url(#shieldClip)">
-  <path d="M60 60 C180 20 360 20 452 80 C380 150 210 190 60 210 Z" fill="url(#gloss)" opacity="0.7"/>
-</g>
+<ellipse cx="256" cy="458" rx="168" ry="16" fill="#000" opacity="0.28" filter="url(#amb)"/>
+<path d="M184 300 L328 196 L328 260 L184 364 Z" fill="url(#h1)"/>
+<path d="M184 300 L208 283 L208 347 L184 364 Z" fill="url(#h2)"/>
+<path d="M304 213 L328 196 L328 260 L304 277 Z" fill="url(#h3)"/>
+<path d="M120 88 L184 88 L184 424 L120 424 Z" fill="url(#h4)"/>
+<path d="M328 88 L392 88 L392 424 L328 424 Z" fill="url(#h5)"/>
+<path d="M184 88 L200 104 L200 424 L184 424 Z" fill="url(#h6)"/>
+<path d="M392 88 L408 104 L408 424 L392 424 Z" fill="url(#h7)"/>
+<path d="M122 90 H182" fill="none" stroke="#FFFFFF" stroke-opacity="0.6" stroke-width="2" stroke-linecap="round"/>
+<path d="M330 90 H390" fill="none" stroke="#FFFFFF" stroke-opacity="0.6" stroke-width="2" stroke-linecap="round"/>
 </svg>

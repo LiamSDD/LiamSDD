@@ -1,44 +1,29 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="claude-ledger">
 <title>claude-ledger</title>
 <defs>
-<filter id="drop" x="-30%" y="-30%" width="160%" height="170%">
-  <feDropShadow dx="0" dy="16" stdDeviation="16" flood-color="#000" flood-opacity="0.38"/>
-</filter>
-<filter id="soft" x="-30%" y="-30%" width="160%" height="160%">
-  <feDropShadow dx="0" dy="6" stdDeviation="6" flood-color="#000" flood-opacity="0.35"/>
-</filter>
-<linearGradient id="amber" x1="0" y1="0" x2="1" y2="1">
-  <stop offset="0" stop-color="#FFE29A"/><stop offset="0.35" stop-color="#FBBF24"/><stop offset="0.8" stop-color="#F08A0C"/><stop offset="1" stop-color="#D9680A"/>
-</linearGradient>
-<linearGradient id="amberEdge" x1="0" y1="0" x2="0" y2="1">
-  <stop offset="0" stop-color="#B4520A"/><stop offset="1" stop-color="#7A3206"/>
-</linearGradient>
-<radialGradient id="coin" cx="0.35" cy="0.3" r="0.8">
-  <stop offset="0" stop-color="#FFF6D2"/><stop offset="0.4" stop-color="#FCD34D"/><stop offset="0.85" stop-color="#E29A0E"/><stop offset="1" stop-color="#B8740A"/>
-</radialGradient>
-<linearGradient id="coinRim" x1="0" y1="0" x2="1" y2="1">
-  <stop offset="0" stop-color="#FFF1B8"/><stop offset="0.5" stop-color="#E8A512"/><stop offset="1" stop-color="#8E5A06"/>
-</linearGradient>
-<linearGradient id="coinEdge" x1="0" y1="0" x2="0" y2="1">
-  <stop offset="0" stop-color="#A06208"/><stop offset="1" stop-color="#5E3904"/>
-</linearGradient>
+<filter id="amb" x="-50%" y="-200%" width="200%" height="500%"><feGaussianBlur stdDeviation="12"/></filter>
+<linearGradient id="l1" gradientUnits="userSpaceOnUse" x1="236" y1="276" x2="276" y2="344"><stop offset="0" stop-color="#FFF0C7"/><stop offset="1" stop-color="#F8B739"/></linearGradient>
+<linearGradient id="l2" gradientUnits="userSpaceOnUse" x1="276" y1="276" x2="286" y2="344"><stop offset="0" stop-color="#8A3A06"/><stop offset="1" stop-color="#5A2404"/></linearGradient>
+<linearGradient id="l3" gradientUnits="userSpaceOnUse" x1="292" y1="224" x2="332" y2="344"><stop offset="0" stop-color="#FFF0C7"/><stop offset="1" stop-color="#F8B739"/></linearGradient>
+<linearGradient id="l4" gradientUnits="userSpaceOnUse" x1="332" y1="224" x2="342" y2="344"><stop offset="0" stop-color="#8A3A06"/><stop offset="1" stop-color="#5A2404"/></linearGradient>
+<linearGradient id="l5" gradientUnits="userSpaceOnUse" x1="348" y1="164" x2="388" y2="344"><stop offset="0" stop-color="#FFF0C7"/><stop offset="1" stop-color="#F8B739"/></linearGradient>
+<linearGradient id="l6" gradientUnits="userSpaceOnUse" x1="388" y1="164" x2="398" y2="344"><stop offset="0" stop-color="#8A3A06"/><stop offset="1" stop-color="#5A2404"/></linearGradient>
+<linearGradient id="l7" gradientUnits="userSpaceOnUse" x1="136" y1="88" x2="200" y2="424"><stop offset="0" stop-color="#FFE3A3"/><stop offset="1" stop-color="#F2930F"/></linearGradient>
+<linearGradient id="l8" gradientUnits="userSpaceOnUse" x1="136" y1="360" x2="408" y2="424"><stop offset="0" stop-color="#F5A524"/><stop offset="1" stop-color="#C4560A"/></linearGradient>
+<linearGradient id="l9" gradientUnits="userSpaceOnUse" x1="408" y1="360" x2="424" y2="440"><stop offset="0" stop-color="#8A3A06"/><stop offset="1" stop-color="#5A2404"/></linearGradient>
+<linearGradient id="l10" gradientUnits="userSpaceOnUse" x1="136" y1="424" x2="424" y2="440"><stop offset="0" stop-color="#8A3A06"/><stop offset="1" stop-color="#5A2404"/></linearGradient>
 </defs>
-<g filter="url(#drop)"><rect x="58" y="114" width="300" height="76" rx="38.0" fill="url(#amberEdge)"/>
-<rect x="58" y="96" width="300" height="76" rx="38.0" fill="url(#amber)"/>
-<rect x="76" y="105" width="200" height="19.8" rx="9.9" fill="#FFFFFF" opacity="0.6"/><rect x="58" y="222" width="236" height="76" rx="38.0" fill="url(#amberEdge)"/>
-<rect x="58" y="204" width="236" height="76" rx="38.0" fill="url(#amber)"/>
-<rect x="76" y="213" width="150" height="19.8" rx="9.9" fill="#FFFFFF" opacity="0.6"/><rect x="58" y="330" width="172" height="76" rx="38.0" fill="url(#amberEdge)"/>
-<rect x="58" y="312" width="172" height="76" rx="38.0" fill="url(#amber)"/>
-<rect x="76" y="321" width="100" height="19.8" rx="9.9" fill="#FFFFFF" opacity="0.6"/></g>
-<g filter="url(#drop)">
-  <circle cx="352" cy="340" r="104" fill="url(#coinEdge)" transform="translate(0 14)"/>
-  <circle cx="352" cy="340" r="104" fill="url(#coinRim)"/>
-  <circle cx="352" cy="340" r="80" fill="url(#coin)"/>
-  <circle cx="352" cy="340" r="80" fill="none" stroke="#9A5F07" stroke-opacity="0.5" stroke-width="4"/>
-  <path d="M381 309 C372 298 360 294 348 294 C330 294 318 304 318 318 C318 350 386 334 386 364 C386 379 372 388 354 388 C340 388 326 382 318 371" fill="none" stroke="#9A5F07" stroke-width="20" stroke-linecap="round" stroke-linejoin="round" transform="translate(0 4)" opacity="0.55"/>
-  <path d="M352 278 V402" fill="none" stroke="#9A5F07" stroke-width="16" stroke-linecap="round" transform="translate(0 4)" opacity="0.55"/>
-  <path d="M381 309 C372 298 360 294 348 294 C330 294 318 304 318 318 C318 350 386 334 386 364 C386 379 372 388 354 388 C340 388 326 382 318 371" fill="none" stroke="#FFF4CC" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
-  <path d="M352 278 V402" fill="none" stroke="#FFF4CC" stroke-width="16" stroke-linecap="round"/>
-  <path d="M296 292 A80 80 0 0 1 372 262" fill="none" stroke="#FFFFFF" stroke-opacity="0.7" stroke-width="10" stroke-linecap="round"/>
-</g>
+<ellipse cx="256" cy="458" rx="168" ry="16" fill="#000" opacity="0.28" filter="url(#amb)"/>
+<path d="M236 276 L276 276 L276 344 L236 344 Z" fill="url(#l1)"/>
+<path d="M276 276 L286 286 L286 344 L276 344 Z" fill="url(#l2)"/>
+<path d="M292 224 L332 224 L332 344 L292 344 Z" fill="url(#l3)"/>
+<path d="M332 224 L342 234 L342 344 L332 344 Z" fill="url(#l4)"/>
+<path d="M348 164 L388 164 L388 344 L348 344 Z" fill="url(#l5)"/>
+<path d="M388 164 L398 174 L398 344 L388 344 Z" fill="url(#l6)"/>
+<path d="M136 88 L200 88 L200 360 L136 424 Z" fill="url(#l7)"/>
+<path d="M136 424 L200 360 L408 360 L408 424 Z" fill="url(#l8)"/>
+<path d="M408 360 L424 376 L424 440 L408 424 Z" fill="url(#l9)"/>
+<path d="M136 424 L408 424 L424 440 L152 440 Z" fill="url(#l10)"/>
+<path d="M138 90 H198" fill="none" stroke="#FFFFFF" stroke-opacity="0.6" stroke-width="2" stroke-linecap="round"/>
+<path d="M206 362 H404" fill="none" stroke="#FFFFFF" stroke-opacity="0.5" stroke-width="2" stroke-linecap="round"/>
 </svg>
