@@ -1,43 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="320" viewBox="0 0 1280 320" role="img" aria-label="LiamSDD. AI agents, LLM tooling and software security.">
-<defs>
-<pattern id="g" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#0B0D12" stroke-opacity="0.04" stroke-width="1"/></pattern>
-<radialGradient id="r" cx="0.79" cy="0.5" r="0.42"><stop offset="0" stop-color="#2F6BF0" stop-opacity="0.12"/><stop offset="1" stop-color="#2F6BF0" stop-opacity="0"/></radialGradient>
-<linearGradient id="fade" x1="0" x2="1"><stop offset="0.45" stop-color="#FFFFFF" stop-opacity="1"/><stop offset="0.62" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient>
-<clipPath id="c"><rect x="0.5" y="0.5" width="1279" height="319" rx="18"/></clipPath>
-</defs>
-<g clip-path="url(#c)">
-<rect width="1280" height="320" fill="#FFFFFF"/>
-<rect width="1280" height="320" fill="url(#g)"/>
-<rect width="1280" height="320" fill="url(#fade)"/>
-<rect width="1280" height="320" fill="url(#r)"/>
-<path d="M1010 160 L880 80" stroke="#2F6BF0" stroke-opacity="0.55" stroke-width="1.5" stroke-dasharray="4 6"/>
-<path d="M1010 160 L1140 80" stroke="#2F6BF0" stroke-opacity="0.55" stroke-width="1.5" stroke-dasharray="4 6"/>
-<path d="M1010 160 L880 240" stroke="#2F6BF0" stroke-opacity="0.55" stroke-width="1.5" stroke-dasharray="4 6"/>
-<path d="M1010 160 L1140 240" stroke="#2F6BF0" stroke-opacity="0.55" stroke-width="1.5" stroke-dasharray="4 6"/>
-<path d="M880 80 L1140 80 M1140 240 L880 240" stroke="#7A8394" stroke-opacity="0.35" stroke-width="1"/>
-<circle cx="1010" cy="160" r="44" fill="#2F6BF0" fill-opacity="0.10"/>
-<circle cx="1010" cy="160" r="30" fill="#F4F6FA" stroke="#2F6BF0" stroke-width="2"/>
-<path d="M1001 169 V159 A9 9 0 0 1 1019 159 V169" fill="none" stroke="#2F6BF0" stroke-width="3.2" stroke-linecap="round"/>
-<circle cx="1010" cy="162" r="2.6" fill="#2F6BF0"/>
-<text x="1010" y="216" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#4A5263">orchestrator</text>
-<circle cx="880" cy="80" r="18" fill="#F4F6FA" stroke="#7A8394" stroke-opacity="0.8" stroke-width="1.5"/>
-<circle cx="880" cy="80" r="4" fill="#2F6BF0"/>
-<text x="880" y="50" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#4A5263">plan</text>
-<circle cx="1140" cy="80" r="18" fill="#F4F6FA" stroke="#7A8394" stroke-opacity="0.8" stroke-width="1.5"/>
-<circle cx="1140" cy="80" r="4" fill="#2F6BF0"/>
-<text x="1140" y="50" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#4A5263">build</text>
-<circle cx="880" cy="240" r="18" fill="#F4F6FA" stroke="#7A8394" stroke-opacity="0.8" stroke-width="1.5"/>
-<circle cx="880" cy="240" r="4" fill="#2F6BF0"/>
-<text x="880" y="280" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#4A5263">verify</text>
-<circle cx="1140" cy="240" r="18" fill="#F4F6FA" stroke="#7A8394" stroke-opacity="0.8" stroke-width="1.5"/>
-<circle cx="1140" cy="240" r="4" fill="#2F6BF0"/>
-<text x="1140" y="280" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#4A5263">secure</text>
-<text x="72" y="104" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" letter-spacing="2.4" fill="#2F6BF0">APPLIED AI ENGINEER</text>
-<text x="70" y="178" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="72" font-weight="700" letter-spacing="-2.2" fill="#0B0D12">LiamSDD</text>
-<text x="72" y="222" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="25" font-weight="500" fill="#4A5263">AI agents  ·  LLM tooling  ·  software security</text>
-<rect x="72" y="244" width="368" height="34" rx="17" fill="#16A34A" fill-opacity="0.12" stroke="#16A34A" stroke-opacity="0.45"/>
-<circle cx="92" cy="261" r="5" fill="#16A34A"/>
-<text x="106" y="266" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, 'Liberation Mono', monospace" font-size="14" fill="#15803D">Open to work  ·  remote  ·  EU and Canada</text>
-</g>
-<rect x="0.5" y="0.5" width="1279" height="319" rx="18" fill="none" stroke="#D9DEE7"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="300" viewBox="0 0 1280 300" role="img" aria-label="LiamSDD, Applied AI Engineer. Available for work, remote.">
+<rect x="0.5" y="0.5" width="1279" height="299" rx="12" fill="#FFFFFF" stroke="#D1D9E0"/>
+<rect x="64" y="64" width="28" height="3" fill="#0969DA"/>
+<text x="104" y="70" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" font-weight="600" letter-spacing="1.6" fill="#59636E">APPLIED AI ENGINEER</text>
+<text x="61" y="142" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="64" font-weight="700" letter-spacing="-1.8" fill="#1F2328">LiamSDD</text>
+<text x="64" y="184" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="22" fill="#59636E">I build software, apps and products with AI in the loop: clean code, real harnesses, users first.</text>
+<line x1="64" y1="222" x2="1216" y2="222" stroke="#D1D9E0"/>
+<circle cx="68" cy="255" r="4" fill="#1A7F37"/>
+<text x="80" y="261" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" font-weight="600" fill="#1F2328">Available for work</text>
+<line x1="268" y1="246" x2="268" y2="264" stroke="#D1D9E0"/>
+<text x="292" y="261" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#59636E">Remote, EU and Canada (no visa needed)</text>
+<line x1="636" y1="246" x2="636" y2="264" stroke="#D1D9E0"/>
+<text x="660" y="261" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#59636E">B.Sc. Applied AI, 2026</text>
+<line x1="866" y1="246" x2="866" y2="264" stroke="#D1D9E0"/>
+<text x="890" y="261" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="16" fill="#59636E">Building Aegis</text>
 </svg>
