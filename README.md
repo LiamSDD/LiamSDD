@@ -39,7 +39,7 @@ Works with Claude Code, Codex, Cursor, Gemini CLI, Antigravity and Kimi. It is t
 <td width="50%" valign="top">
 
 ### [Delegate](https://github.com/LiamSDD/delegate)
-`open source` `TypeScript` `agent platform` `in development`
+`open source` `TypeScript` `agent platform` `building`
 
 An enterprise agent platform that turns a company's goals into finished, verified work. A hand-written agent runtime with a quarantined reader against prompt injection, a policy engine on every tool call, an append-only event log for replay and forks, and evals with confidence intervals. Runs for $0 on keyless open models.
 
