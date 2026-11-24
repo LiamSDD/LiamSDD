@@ -1,30 +1,25 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="LiamSDD, Applied AI Engineer. AI agents, LLM tooling and software security. Open to work." src="assets/banner-dark.svg" width="100%">
+  <img alt="LiamSDD, Applied AI Engineer. I build software, apps and products with AI in the loop: clean code, real harnesses, users first. Available for work, remote, EU and Canada." src="assets/banner-dark.svg" width="100%">
 </picture>
 
-<br>
+**Applied AI Engineer.** I engineer software, applications and products with AI built into the way I work. My code is clean, tested and easy to review. Coding agents run inside proper harnesses, and every decision starts from the user's experience.
 
-**Applied AI Engineer.** I take LLMs from prototype to shipped product: AI agents, the harnesses that keep them safe and cheap, and the security around the software they ship.
-
-<table>
-<tr>
-<td align="center"><b>3,000+</b><br><sub>licence keys sold<br>with Aegis</sub></td>
-<td align="center"><b>4</b><br><sub>products shipped<br>end to end</sub></td>
-<td align="center"><b>649</b><br><sub>tests across my<br>open-source tools</sub></td>
-<td align="center"><b>~2 years</b><br><sub>shipping with coding<br>agents every day</sub></td>
-<td align="center"><b>B.Sc.</b><br><sub>Applied AI<br>2026</sub></td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
+  <img alt="3,000+ licence keys sold with Aegis. 4 products built and shipped. About 2 years engineering with coding agents daily. 374 tests in my open-source tools." src="assets/stats-dark.svg" width="100%">
+</picture>
 
 ## What I bring on day one
 
-- **Agents that ship.** I design multi-agent workflows (plan, build, review, verify) and the harness around them: skills, tools, permissions, hooks, subagent routing. See [Claude Code Harness Pro Max](https://github.com/LiamSDD/claude-code-harness-pro-max).
-- **LLM cost under control.** Token budgets, caching, model routing and usage reporting, so AI features stay affordable at scale. See [claude-ledger](https://github.com/LiamSDD/claude-ledger).
-- **Production engineering.** Test-first code, zero-dependency libraries, clear docs and releases. See [pixelpath](https://github.com/LiamSDD/pixelpath).
-- **Security by default.** Licensing, anti-tamper and anti-debug in a product with paying customers. See [Aegis](https://shieldaegis.cloud).
-- **Product sense.** I have built and sold products myself, so I care about what users pay for, not only what is technically interesting.
+- **AI-assisted delivery without the mess.** I build with coding agents every day, inside a harness I wrote myself: skills, permissions, hooks and subagents. You get the speed of AI with code a reviewer can trust. See [Claude Code Harness Pro Max](https://github.com/LiamSDD/claude-code-harness-pro-max).
+- **Code sanity first.** Test-first changes, small pull requests that are easy to review, clear docs and versioned releases. Nothing is called done until it has been verified.
+- **Users before features.** I start from what the user sees and needs, then engineer backwards to fast, clear, simple flows. I don't ship a feature I wouldn't want to use myself.
+- **AI that stays affordable.** Model routing, prompt caching, token budgets and spend reporting keep AI features cheap to run at scale. See [claude-ledger](https://github.com/LiamSDD/claude-ledger).
+- **Security built in.** Licensing, anti-tamper, anti-debug and secret scanning by default, proven in [Aegis](https://shieldaegis.cloud) with 3,000+ licence keys sold.
+- **Ownership from idea to release.** I have designed, built, shipped and sold my own products, so I can own a feature end to end and keep sight of what users actually pay for.
 
 ## Featured work
 
@@ -33,11 +28,11 @@
 <td width="50%" valign="top">
 
 ### [Claude Code Harness Pro Max](https://github.com/LiamSDD/claude-code-harness-pro-max)
-`open source` `Python` `AI agents`
+`open source` `Python` `AI engineering`
 
-Guardrails, cost control and engineering discipline for AI coding agents. It blocks destructive commands and leaked secrets, cuts wasted tokens, enforces limits on replies, prompts and budgets, and routes subagents to the right model.
+The harness I use to build software with AI: it blocks destructive commands and leaked secrets, enforces limits on replies, prompts and budgets, routes subagents to the right model, and makes the agent prove its work before it says "done".
 
-**21 skills** · **7 agents** · **19 hooks** · **238 tests** · **0 dependencies**<br>
+**21 skills** · **7 agents** · **238 tests** · **0 dependencies**<br>
 Works with Claude Code, Codex, Cursor, Gemini CLI, Antigravity and Kimi.
 
 </td>
@@ -46,7 +41,7 @@ Works with Claude Code, Codex, Cursor, Gemini CLI, Antigravity and Kimi.
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/aegis-logo-white-text.svg"><source media="(prefers-color-scheme: light)" srcset="assets/aegis-logo-black-text.svg"><img alt="Aegis" src="assets/aegis-logo-white-text.svg" height="30"></picture>
 `product` `C++` `security`
 
-All-in-one authentication and DRM for games and software. It protects builds on the client and the server against cracking, debugging and tampering, using licence keys, hardware lock, integrity checks, code virtualisation and packing.
+Authentication and DRM for games and software. It protects builds on the client and the server against cracking, debugging and tampering, using licence keys, hardware lock, integrity checks, code virtualisation and packing.
 
 **3,000+ licence keys sold** to mid-size studios shipping on Steam and to independent developers.<br>
 [shieldaegis.cloud](https://shieldaegis.cloud) · source is private
@@ -57,25 +52,13 @@ All-in-one authentication and DRM for games and software. It protects builds on 
 <td width="50%" valign="top">
 
 ### [claude-ledger](https://github.com/LiamSDD/claude-ledger)
-`open source` `Python` `CLI`
+`open source` `Python` `LLM cost`
 
-See where your Claude Code tokens and dollars go. Reads local transcripts and breaks spend down by model, project, day, session and subagent, then suggests savings with their dollar impact.
+Shows where Claude Code tokens and dollars go, by model, project, day, session and subagent, then suggests savings with their dollar impact. Read-only and offline.
 
-**0 dependencies** · **136 tests** · Markdown, JSON and CSV output
-
-</td>
-<td width="50%" valign="top">
-
-### [pixelpath](https://github.com/LiamSDD/pixelpath)
-`open source` `Python` `graphics`
-
-Zero-dependency SVG rasterizer. Renders SVG paths and shapes to anti-aliased, transparent PNGs with no Cairo, no Pillow and no native code.
-
-**0 dependencies** · **275 tests** · 512 px render in 0.3 s
+**136 tests** · **0 dependencies** · Markdown, JSON and CSV output
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### ChatFlow
@@ -86,52 +69,45 @@ An AI assistant that answers Instagram Direct, Facebook Messenger and WhatsApp c
 Source is private.
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### Vocalis
 `product` `generative audio`
 
-Turns a consented voice, an instrumental and a prompt or lyrics into a complete song in that voice, at the chosen tempo.
-
-Source is private.
+Turns a consented voice, an instrumental and a prompt or lyrics into a complete song in that voice, at the chosen tempo. Source is private.
 
 </td>
 </tr>
 </table>
 
-## How I work
-
-- **Harness first.** Every model I use runs inside a harness of skills, permissions, hooks and subagents, so its output is safe, cheap and repeatable.
-- **Verified, then shipped.** Tests and evidence come before the word "done". Agents plan, build, review and verify in separate roles.
-- **Secure by default.** Secrets scanning, least-privilege tools and anti-tamper are built in from the first commit.
-
 ## Stack
 
 **Languages**<br>
-![Python](https://img.shields.io/badge/Python-0B0D12?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0B0D12?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0B0D12?style=flat-square&logo=javascript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0B0D12?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-0B0D12?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0B0D12?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0B0D12?style=flat-square&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-0B0D12?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-0B0D12?style=flat-square&logo=css&logoColor=white)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css&logoColor=white)
 
-**AI and machine learning**<br>
-![Claude](https://img.shields.io/badge/Claude_Code-0B0D12?style=flat-square&logo=claude&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic_API-0B0D12?style=flat-square&logo=anthropic&logoColor=white)
-![Codex](https://img.shields.io/badge/OpenAI_Codex-0B0D12?style=flat-square)
-![Cursor](https://img.shields.io/badge/Cursor-0B0D12?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-0B0D12?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-0B0D12?style=flat-square&logo=huggingface&logoColor=white)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-0B0D12?style=flat-square)
+**AI engineering**<br>
+![Claude Code](https://img.shields.io/badge/Claude_Code-0D1117?style=flat-square&logo=claude&logoColor=white)
+![Anthropic API](https://img.shields.io/badge/Anthropic_API-0D1117?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-0D1117?style=flat-square)
+![Cursor](https://img.shields.io/badge/Cursor-0D1117?style=flat-square)
+![Antigravity](https://img.shields.io/badge/Antigravity-0D1117?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-0D1117?style=flat-square&logo=huggingface&logoColor=white)
+![ComfyUI](https://img.shields.io/badge/ComfyUI-0D1117?style=flat-square)
 
 **Focus**<br>
-`agent harnesses` `multi-agent workflows` `prompt and task design` `LLM cost control` `licensing and DRM` `anti-tamper` `generative media`
+`applied AI` `agent harnesses` `multi-agent workflows` `code quality` `user experience` `LLM cost control` `software security`
 
-## Hiring?
+## Open to work
 
-I am open to **Applied AI Engineer** roles: AI agents, LLM products and AI tooling. Remote, with no visa needed in the EU or Canada.
-
-My contact details are on my CV, or you can reach me through [shieldaegis.cloud/contact](https://shieldaegis.cloud/contact).
+I am looking for an engineering role where AI is part of how the work gets done. That means building applications, software and products with harness-driven development and clean code, and putting the user's experience first. Remote, with no visa needed in the EU or Canada.
