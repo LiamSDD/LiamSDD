@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 64 64" role="img" aria-label="Vocalis">
+<rect x="0.75" y="0.75" width="62.5" height="62.5" rx="14" fill="#0D1117" stroke="#30363D" stroke-width="1.5"/>
+<circle cx="32" cy="32" r="17" fill="none" stroke="#F43F8E" stroke-width="2.6" opacity="0.55"/>
+<path d="M22 32v0M26.5 27v10M31 22v20M35.5 26v12M40 30v4M44 32v0" stroke="#F472B6" stroke-width="3" stroke-linecap="round"/>
+</svg>
