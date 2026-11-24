@@ -9,12 +9,12 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
-  <img alt="3,000+ licence keys sold with Aegis. 5 products built and shipped. About 2 years engineering with coding agents daily. 374 tests in my open-source tools." src="assets/stats-dark.svg" width="100%">
+  <img alt="3,000+ licence keys sold with Aegis. 5 products built and shipped. About 2 years engineering with coding agents daily. 550 tests in my open-source tools." src="assets/stats-dark.svg" width="100%">
 </picture>
 
 ## What I bring on day one
 
-- **AI-assisted delivery without the mess.** I build with coding agents every day, inside a harness I wrote myself: skills, permissions, hooks and subagents. You get the speed of AI with code a reviewer can trust. See [Claude Code Harness Pro Max](https://github.com/LiamSDD/claude-code-harness-pro-max).
+- **AI-assisted delivery without the mess.** I build with coding agents every day, inside a harness I wrote myself: skills, permissions, hooks and subagents. You get the speed of AI with code a reviewer can trust. See [Claude Code Harness Pro Max](https://github.com/LiamSDD/claude-code-harness-pro-max) and [agent-scorecard](https://github.com/LiamSDD/agent-scorecard).
 - **Code sanity first.** Test-first changes, small pull requests that are easy to review, clear docs and versioned releases. Nothing is called done until it has been verified.
 - **Users before features.** I start from what the user sees and needs, then engineer backwards to fast, clear, simple flows. I don't ship a feature I wouldn't want to use myself.
 - **AI that stays affordable.** Model routing, prompt caching, token budgets and spend reporting keep AI features cheap to run at scale. See [claude-ledger](https://github.com/LiamSDD/claude-ledger).
@@ -24,6 +24,20 @@
 ## Featured work
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+### [agent-scorecard](https://github.com/LiamSDD/agent-scorecard)
+`open source` `TypeScript` `Next.js` `LLM-as-judge`
+
+Scorecards for AI coding agent runs. Drop in a Claude Code transcript and see what the agent did, what it cost, and whether the work holds up: a turn-by-turn timeline, cost and token charts, automated checks for destructive commands, leaked secrets and unverified edits, and a structured AI review from Claude that cites the turns it is judging.
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LiamSDD/agent-scorecard/main/docs/screenshot-run-checks-dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LiamSDD/agent-scorecard/main/docs/screenshot-run-checks-light.png"><img alt="agent-scorecard run view with automated checks and hygiene score" src="https://raw.githubusercontent.com/LiamSDD/agent-scorecard/main/docs/screenshot-run-checks-dark.png" width="100%"></picture>
+
+**176 tests** · works without an API key · bring your own key for live AI reviews
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
