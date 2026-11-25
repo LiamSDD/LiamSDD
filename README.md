@@ -7,9 +7,9 @@
 **Applied AI Engineer and Claude Code specialist.** I ship software, applications and products efficiently with AI built into the way I work. I run coding agents inside proper harnesses, so the speed comes with clean, tested, reviewable code, and every decision starts from the user's experience.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
-  <img alt="3,000+ licence keys sold with Aegis. 5 products built and shipped. About 2 years engineering with coding agents daily. 1,016 tests in my open-source projects." src="assets/stats-dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light-v2.svg">
+  <img alt="3,000+ licence keys sold with Aegis. 5 products built and shipped. About 2 years engineering with coding agents daily. 1,545 tests in my open-source projects." src="assets/stats-dark-v2.svg" width="100%">
 </picture>
 
 ## What I bring on day one
@@ -39,11 +39,11 @@ Works with Claude Code, Codex, Cursor, Gemini CLI, Antigravity and Kimi. It is t
 <td width="50%" valign="top">
 
 ### <img src="assets/icons/delegate-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[Delegate](https://github.com/LiamSDD/delegate)
-`open source` `TypeScript` `agent platform` `building`
+`open source` `TypeScript` `agent platform` `multi-agent`
 
 An enterprise agent platform that turns a company's goals into finished, verified work. A hand-written agent runtime with a quarantined reader against prompt injection, a policy engine on every tool call, an append-only event log for replay and forks, and evals with confidence intervals. Runs for $0 on keyless open models.
 
-**642 tests** · Postgres row-level security · foundation milestone done, live runs next
+**1,171 tests** · company X-ray, AI automation audit and Build it running live · $0 on free models
 
 </td>
 </tr>
