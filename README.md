@@ -30,12 +30,14 @@
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/aegis-logo-white-text.svg"><source media="(prefers-color-scheme: light)" srcset="assets/aegis-logo-black-text.svg"><img alt="Aegis" src="assets/aegis-logo-white-text.svg" height="30"></picture>
 `product` `founder` `C++` `C` `React` `Electron` `security`
 
+<a href="https://shieldaegis.cloud"><img src="assets/demos/aegis-demo.gif" alt="Aegis demo: an unprotected game build goes in and ships with seven protection layers" width="100%"></a>
+
 Software protection and licensing for games and desktop apps. A custom packer with code virtualisation, encryption at rest and per-build stubs, combined with licence keys, hardware lock, anti-debug and integrity checks, enforced on both the client and the server.
 
 **My role:** founder and lead engineer. I designed and built the native protection engine in C and C++, the licensing server and the React and Electron app developers use to protect a build, over about 8 months from late 2025, with help from a few engineers in my network.
 
 **3,000+ licence keys sold** to mid-size studios shipping on Steam and to independent developers.<br>
-[shieldaegis.cloud](https://shieldaegis.cloud) · source is private
+[shieldaegis.cloud](https://shieldaegis.cloud) · [29 s video](assets/demos/aegis-demo.mp4) · source is private
 
 </td>
 <td width="50%" valign="top">
