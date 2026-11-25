@@ -43,7 +43,7 @@ Works with Claude Code, Codex, Cursor, Gemini CLI, Antigravity and Kimi. It is t
 
 An enterprise agent platform that turns a company's goals into finished, verified work. A hand-written agent runtime with a quarantined reader against prompt injection, a policy engine on every tool call, an append-only event log for replay and forks, and evals with confidence intervals. Runs for $0 on keyless open models.
 
-**1,171 tests** · company X-ray, AI automation audit and Build it running live · $0 on free models
+**[Live demo →](https://delegate-beryl.vercel.app)** · **1,171 tests** · company X-ray, AI automation audit and Build it · $0 on free models
 
 </td>
 </tr>
