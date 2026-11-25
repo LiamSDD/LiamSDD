@@ -38,25 +38,27 @@ Works with Claude Code, Codex, Cursor, Gemini CLI, Antigravity and Kimi. It is t
 </td>
 <td width="50%" valign="top">
 
-### <img src="assets/icons/delegate-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[Delegate](https://github.com/LiamSDD/delegate)
-`open source` `TypeScript` `agent platform` `multi-agent`
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/aegis-logo-white-text.svg"><source media="(prefers-color-scheme: light)" srcset="assets/aegis-logo-black-text.svg"><img alt="Aegis" src="assets/aegis-logo-white-text.svg" height="30"></picture>
+`product` `founder` `C++` `C` `React` `Electron` `security`
 
-An enterprise agent platform that turns a company's goals into finished, verified work. A hand-written agent runtime with a quarantined reader against prompt injection, a policy engine on every tool call, an append-only event log for replay and forks, and evals with confidence intervals. Runs for $0 on keyless open models.
+Software protection and licensing for games and desktop apps. A custom packer with code virtualisation, encryption at rest and per-build stubs, combined with licence keys, hardware lock, anti-debug and integrity checks, enforced on both the client and the server.
 
-**[Live demo →](https://delegate-beryl.vercel.app)** · **1,310 tests** · 0% attack success on a 56-attack red-team suite · fork any run from any step · $0 on free models
+**My role:** founder and lead engineer. I designed and built the native protection engine in C and C++, the licensing server and the React and Electron app developers use to protect a build, over about 8 months from late 2025, with help from a few engineers in my network.
+
+**3,000+ licence keys sold** to mid-size studios shipping on Steam and to independent developers.<br>
+[shieldaegis.cloud](https://shieldaegis.cloud) · source is private
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/aegis-logo-white-text.svg"><source media="(prefers-color-scheme: light)" srcset="assets/aegis-logo-black-text.svg"><img alt="Aegis" src="assets/aegis-logo-white-text.svg" height="30"></picture>
-`product` `C++` `security`
+### <img src="assets/icons/delegate-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[Delegate](https://github.com/LiamSDD/delegate)
+`open source` `TypeScript` `agent platform` `multi-agent`
 
-Authentication and DRM for games and software. It protects builds on the client and the server against cracking, debugging and tampering, using licence keys, hardware lock, integrity checks, code virtualisation and packing.
+An enterprise agent platform that turns a company's goals into finished, verified work. A hand-written agent runtime with a quarantined reader against prompt injection, a policy engine on every tool call, an append-only event log for replay and forks, and evals with confidence intervals. Runs for $0 on keyless open models.
 
-**3,000+ licence keys sold** to mid-size studios shipping on Steam and to independent developers.<br>
-[shieldaegis.cloud](https://shieldaegis.cloud) · source is private
+**[Live demo →](https://delegate-beryl.vercel.app)** · **1,310 tests** · 0% attack success on a 56-attack red-team suite · fork any run from any step · $0 on free models
 
 </td>
 <td width="50%" valign="top">
