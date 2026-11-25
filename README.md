@@ -27,17 +27,6 @@
 <tr>
 <td width="50%" valign="top">
 
-### <img src="assets/icons/harness-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[Claude Code Harness Pro Max](https://github.com/LiamSDD/claude-code-harness-pro-max)
-`flagship` `open source` `Python` `Claude Code`
-
-The harness I use to build software with AI: it blocks destructive commands and leaked secrets, enforces limits on replies, prompts and budgets, routes subagents to the right model, and makes the agent prove its work before it says "done".
-
-**21 skills** · **7 agents** · **238 tests** · **0 dependencies**<br>
-Works with Claude Code, Codex, Cursor, Gemini CLI, Antigravity and Kimi. It is the harness every project on this profile was built with.
-
-</td>
-<td width="50%" valign="top">
-
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/aegis-logo-white-text.svg"><source media="(prefers-color-scheme: light)" srcset="assets/aegis-logo-black-text.svg"><img alt="Aegis" src="assets/aegis-logo-white-text.svg" height="30"></picture>
 `product` `founder` `C++` `C` `React` `Electron` `security`
 
@@ -49,8 +38,6 @@ Software protection and licensing for games and desktop apps. A custom packer wi
 [shieldaegis.cloud](https://shieldaegis.cloud) · source is private
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### <img src="assets/icons/delegate-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[Delegate](https://github.com/LiamSDD/delegate)
@@ -59,6 +46,19 @@ Software protection and licensing for games and desktop apps. A custom packer wi
 An enterprise agent platform that turns a company's goals into finished, verified work. A hand-written agent runtime with a quarantined reader against prompt injection, a policy engine on every tool call, an append-only event log for replay and forks, and evals with confidence intervals. Runs for $0 on keyless open models.
 
 **[Live demo →](https://delegate-beryl.vercel.app)** · **1,310 tests** · 0% attack success on a 56-attack red-team suite · fork any run from any step · $0 on free models
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### <img src="assets/icons/harness-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[Claude Code Harness Pro Max](https://github.com/LiamSDD/claude-code-harness-pro-max)
+`open source` `Python` `Claude Code` `harness`
+
+The harness I use to build software with AI: it blocks destructive commands and leaked secrets, enforces limits on replies, prompts and budgets, routes subagents to the right model, and makes the agent prove its work before it says "done".
+
+**21 skills** · **7 agents** · **238 tests** · **0 dependencies**<br>
+Works with Claude Code, Codex, Cursor, Gemini CLI, Antigravity and Kimi. It is the harness every project on this profile was built with.
 
 </td>
 <td width="50%" valign="top">
