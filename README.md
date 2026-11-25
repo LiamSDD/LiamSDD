@@ -7,9 +7,9 @@
 **Applied AI Engineer and Claude Code specialist.** I ship software, applications and products efficiently with AI built into the way I work. I run coding agents inside proper harnesses, so the speed comes with clean, tested, reviewable code, and every decision starts from the user's experience.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark-v3.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light-v3.svg">
-  <img alt="3,000+ licence keys sold with Aegis. 5 products built and shipped. About 2 years engineering with coding agents daily. 1,545 tests in my open-source projects." src="assets/stats-dark-v3.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark-v4.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light-v4.svg">
+  <img alt="3,000+ licence keys sold with Aegis. 5 products built and shipped. About 2 years engineering with coding agents daily. 2,259 tests in my open-source projects." src="assets/stats-dark-v4.svg" width="100%">
 </picture>
 
 ## What I bring on day one
@@ -45,9 +45,9 @@ Software protection and licensing for games and desktop apps. A custom packer wi
 ### <img src="assets/icons/delegate-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[Delegate](https://github.com/LiamSDD/delegate)
 `open source` `TypeScript` `agent platform` `multi-agent`
 
-An enterprise agent platform that turns a company's goals into finished, verified work. A hand-written agent runtime with a quarantined reader against prompt injection, a policy engine on every tool call, an append-only event log for replay and forks, and evals with confidence intervals. Runs for $0 on keyless open models.
+An agent platform that turns a goal, a company URL or a GitHub repository into finished, verified work: it plans, runs specialist agents in parallel, checks every claim against its source and asks before any side effect. A hand-written agent runtime with a quarantined reader against prompt injection, a policy engine on every tool call, an append-only event log for replay and forks, and an MCP server for Claude Code and Codex.
 
-**[Live demo →](https://delegate-beryl.vercel.app)** · **1,310 tests** · 0% attack success on a 56-attack red-team suite · fork any run from any step · $0 on free models
+**[Live demo →](https://delegate-beryl.vercel.app)** · **1,885 tests** · 0% attack success on a 110-attack red-team suite · evals on every mission · fork any run from any step · $0 on free models
 
 </td>
 </tr>
