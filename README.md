@@ -7,9 +7,9 @@
 **Applied AI Engineer and Claude Code specialist.** I ship software, applications and products efficiently with AI built into the way I work. I run coding agents inside proper harnesses, so the speed comes with clean, tested, reviewable code, and every decision starts from the user's experience.
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark-v3.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light-v3.svg">
-  <img alt="3,000+ licence keys sold with Aegis. 5 products built and shipped. About 2 years engineering with coding agents daily. 1,545 tests in my open-source projects." src="assets/stats-dark-v3.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark-v4.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light-v4.svg">
+  <img alt="3,000+ licence keys sold with Aegis. 5 products built and shipped. About 2 years engineering with coding agents daily. 2,259 tests in my open-source projects." src="assets/stats-dark-v4.svg" width="100%">
 </picture>
 
 ## What I bring on day one
@@ -27,13 +27,17 @@
 <tr>
 <td width="50%" valign="top">
 
-### <img src="assets/icons/harness-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[Claude Code Harness Pro Max](https://github.com/LiamSDD/claude-code-harness-pro-max)
-`flagship` `open source` `Python` `Claude Code`
+### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/aegis-logo-white-text.svg"><source media="(prefers-color-scheme: light)" srcset="assets/aegis-logo-black-text.svg"><img alt="Aegis" src="assets/aegis-logo-white-text.svg" height="30"></picture>
+`product` `founder` `C++` `C` `React` `Electron` `security`
 
-The harness I use to build software with AI: it blocks destructive commands and leaked secrets, enforces limits on replies, prompts and budgets, routes subagents to the right model, and makes the agent prove its work before it says "done".
+<a href="https://shieldaegis.cloud"><img src="assets/demos/aegis-demo.gif" alt="Aegis demo: an unprotected game build goes in and ships with seven protection layers" width="100%"></a>
 
-**21 skills** · **7 agents** · **238 tests** · **0 dependencies**<br>
-Works with Claude Code, Codex, Cursor, Gemini CLI, Antigravity and Kimi. It is the harness every project on this profile was built with.
+Software protection and licensing for games and desktop apps. A custom packer with code virtualisation, encryption at rest and per-build stubs, combined with licence keys, hardware lock, anti-debug and integrity checks, enforced on both the client and the server.
+
+**My role:** founder and lead engineer. I designed and built the native protection engine in C and C++, the licensing server and the React and Electron app developers use to protect a build, over about 8 months from late 2025, with help from a few engineers in my network.
+
+**3,000+ licence keys sold** to mid-size studios shipping on Steam and to independent developers.<br>
+[shieldaegis.cloud](https://shieldaegis.cloud) · [29 s video](assets/demos/aegis-demo.mp4) · source is private
 
 </td>
 <td width="50%" valign="top">
@@ -41,22 +45,22 @@ Works with Claude Code, Codex, Cursor, Gemini CLI, Antigravity and Kimi. It is t
 ### <img src="assets/icons/delegate-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[Delegate](https://github.com/LiamSDD/delegate)
 `open source` `TypeScript` `agent platform` `multi-agent`
 
-An enterprise agent platform that turns a company's goals into finished, verified work. A hand-written agent runtime with a quarantined reader against prompt injection, a policy engine on every tool call, an append-only event log for replay and forks, and evals with confidence intervals. Runs for $0 on keyless open models.
+An agent platform that turns a goal, a company URL or a GitHub repository into finished, verified work: it plans, runs specialist agents in parallel, checks every claim against its source and asks before any side effect. A hand-written agent runtime with a quarantined reader against prompt injection, a policy engine on every tool call, an append-only event log for replay and forks, and an MCP server for Claude Code and Codex.
 
-**[Live demo →](https://delegate-beryl.vercel.app)** · **1,310 tests** · 0% attack success on a 56-attack red-team suite · fork any run from any step · $0 on free models
+**[Live demo →](https://delegate-beryl.vercel.app)** · **1,885 tests** · 0% attack success on a 110-attack red-team suite · evals on every mission · fork any run from any step · $0 on free models
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/aegis-logo-white-text.svg"><source media="(prefers-color-scheme: light)" srcset="assets/aegis-logo-black-text.svg"><img alt="Aegis" src="assets/aegis-logo-white-text.svg" height="30"></picture>
-`product` `C++` `security`
+### <img src="assets/icons/harness-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[Claude Code Harness Pro Max](https://github.com/LiamSDD/claude-code-harness-pro-max)
+`open source` `Python` `Claude Code` `harness`
 
-Authentication and DRM for games and software. It protects builds on the client and the server against cracking, debugging and tampering, using licence keys, hardware lock, integrity checks, code virtualisation and packing.
+The harness I use to build software with AI: it blocks destructive commands and leaked secrets, enforces limits on replies, prompts and budgets, routes subagents to the right model, and makes the agent prove its work before it says "done".
 
-**3,000+ licence keys sold** to mid-size studios shipping on Steam and to independent developers.<br>
-[shieldaegis.cloud](https://shieldaegis.cloud) · source is private
+**21 skills** · **7 agents** · **238 tests** · **0 dependencies**<br>
+Works with Claude Code, Codex, Cursor, Gemini CLI, Antigravity and Kimi. It is the harness every project on this profile was built with.
 
 </td>
 <td width="50%" valign="top">
