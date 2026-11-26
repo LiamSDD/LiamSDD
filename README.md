@@ -121,29 +121,9 @@ A zero-dependency SVG rasterizer: renders SVG paths and shapes to anti-aliased, 
 
 ## Stack
 
-**Languages**<br>
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-0D1117?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css&logoColor=white)
-
-**AI engineering**<br>
-![Claude Code](https://img.shields.io/badge/Claude_Code-0D1117?style=flat-square&logo=claude&logoColor=white)
-![Anthropic API](https://img.shields.io/badge/Anthropic_API-0D1117?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-0D1117?style=flat-square)
-![Cursor](https://img.shields.io/badge/Cursor-0D1117?style=flat-square)
-![Antigravity](https://img.shields.io/badge/Antigravity-0D1117?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=flat-square&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-0D1117?style=flat-square&logo=huggingface&logoColor=white)
-![ComfyUI](https://img.shields.io/badge/ComfyUI-0D1117?style=flat-square)
-
-**Focus**<br>
-`applied AI` `agent harnesses` `multi-agent workflows` `code quality` `user experience` `LLM cost control` `software security`
+**Daily:** Python · TypeScript · C++ · C · SQL (Postgres) · Next.js · React · Electron<br>
+**AI engineering:** Claude Code · Anthropic API · OpenAI Codex · Cursor · MCP · multi-agent orchestration · evals<br>
+**Ask me about:** hand-written agent runtimes and why I avoid frameworks · code virtualisation and licensing at scale · cutting LLM cost without losing quality
 
 ## Open to work
 
