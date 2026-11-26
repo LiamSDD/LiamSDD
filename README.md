@@ -6,10 +6,16 @@
 
 **Applied AI Engineer and Claude Code specialist.** I ship software, applications and products efficiently with AI built into the way I work. I run coding agents inside proper harnesses, so the speed comes with clean, tested, reviewable code, and every decision starts from the user's experience.
 
+> **Hiring? The 90-second path**<br>
+> ▶ **Try it:** [Delegate live demo](https://delegate-beryl.vercel.app), a multi-agent platform running on free models, no sign-up<br>
+> ▶ **Watch it:** [Aegis in 31 seconds](assets/demos/aegis-demo-1080p60.mp4), the software protection product I founded and sell<br>
+> ▶ **Read how I think:** [the Delegate case study](https://github.com/LiamSDD/delegate/blob/main/docs/CASE_STUDY.md), covering design choices, trade-offs and what I would do differently<br>
+> ▶ **Looking for:** Applied AI Engineer roles, remote, EU or Canada, no visa needed
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark-v4.svg">
-  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light-v4.svg">
-  <img alt="3,000+ licence keys sold with Aegis. 5 products built and shipped. About 2 years engineering with coding agents daily. 2,259 tests in my open-source projects." src="assets/stats-dark-v4.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark-v5.svg">
+  <source media="(prefers-color-scheme: light)" srcset="assets/stats-light-v5.svg">
+  <img alt="3,000+ licence keys sold with Aegis. 5 products built and shipped. About 2 years engineering with coding agents daily. 3,349 tests in my open-source projects." src="assets/stats-dark-v5.svg" width="100%">
 </picture>
 
 ## What I bring on day one
@@ -45,9 +51,10 @@ Software protection and licensing for games and desktop apps. A custom packer wi
 ### <img src="assets/icons/delegate-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[Delegate](https://github.com/LiamSDD/delegate)
 `open source` `TypeScript` `agent platform` `multi-agent`
 
-An agent platform that turns a goal, a company URL or a GitHub repository into finished, verified work: it plans, runs specialist agents in parallel, checks every claim against its source and asks before any side effect. A hand-written agent runtime with a quarantined reader against prompt injection, a policy engine on every tool call, an append-only event log for replay and forks, and an MCP server for Claude Code and Codex.
+An agent platform that turns a goal, a company URL or a GitHub repository into finished, verified work: it plans, runs specialist agents in parallel, checks every claim against its source and asks before any side effect. A hand-written agent runtime with a quarantined reader against prompt injection, a policy engine on every tool call, an append-only event log for replay and forks, a REST API with SDK, CLI and signed webhooks, and an MCP server for Claude Code and Codex.
 
-**[Live demo →](https://delegate-beryl.vercel.app)** · **1,885 tests** · 0% attack success on a 110-attack red-team suite · evals on every mission · fork any run from any step · $0 on free models
+**[Live demo →](https://delegate-beryl.vercel.app)** · **2,700 tests** · evals with confidence intervals on every mission · fork any run from any step · $0 on free models<br>
+[Case study](https://github.com/LiamSDD/delegate/blob/main/docs/CASE_STUDY.md) · [Architecture](https://github.com/LiamSDD/delegate/blob/main/docs/ARCHITECTURE.md)
 
 </td>
 </tr>
@@ -87,26 +94,18 @@ Shows where Claude Code tokens and dollars go, by model, project, day, session a
 </td>
 <td width="50%" valign="top">
 
-### <img src="assets/icons/chatflow-mark.svg" alt="" height="36" align="absmiddle">&nbsp;ChatFlow
-`product` `LLM assistant` `automation`
+### [pixelpath](https://github.com/LiamSDD/pixelpath)
+`open source` `Python` `graphics`
 
-An AI assistant that answers Instagram Direct, Facebook Messenger and WhatsApp conversations in a natural tone, so no lead is lost to an unanswered message.
+A zero-dependency SVG rasterizer: renders SVG paths and shapes to anti-aliased, transparent PNGs using only the Python standard library. No Cairo, no Pillow, no native code, and it refuses unsafe XML before parsing.
 
-Source is private.
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### <img src="assets/icons/vocalis-mark.svg" alt="" height="36" align="absmiddle">&nbsp;Vocalis
-`product` `generative audio`
-
-Turns a consented voice, an instrumental and a prompt or lyrics into a complete song in that voice, at the chosen tempo. Source is private.
+**275 tests** · **0 dependencies** · bounded output size
 
 </td>
 </tr>
 </table>
+
+**Also built** (private source): **ChatFlow**, an AI assistant that answers Instagram Direct, Messenger and WhatsApp conversations in a natural tone, and **Vocalis**, which turns a consented voice, an instrumental and lyrics into a complete song in that voice.
 
 ## Stack
 
