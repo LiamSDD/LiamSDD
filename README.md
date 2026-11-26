@@ -8,9 +8,17 @@
 
 > **Hiring? The 90-second path**<br>
 > ▶ **Try it:** [Delegate live demo](https://delegate-beryl.vercel.app), a multi-agent platform running on free models, no sign-up<br>
-> ▶ **Watch it:** [Aegis in 31 seconds](assets/demos/aegis-demo-1080p60.mp4), the software protection product I founded and sell<br>
+> ▶ **Watch it:** the three one-minute videos below<br>
 > ▶ **Read how I think:** [the Delegate case study](https://github.com/LiamSDD/delegate/blob/main/docs/CASE_STUDY.md), covering design choices, trade-offs and what I would do differently<br>
 > ▶ **Looking for:** Applied AI Engineer roles, remote, EU or Canada, no visa needed
+
+<table>
+<tr>
+<td width="33%" align="center"><a href="assets/demos/aegis-demo-1080p60.mp4"><img src="assets/posters/aegis.jpg" alt="Aegis demo video" width="100%"></a><br><b>Aegis</b> · 31 s<br><sub>protecting a game build</sub></td>
+<td width="33%" align="center"><a href="assets/demos/delegate-demo-1080p60.mp4"><img src="assets/posters/delegate.jpg" alt="Delegate demo video" width="100%"></a><br><b>Delegate</b> · 60 s<br><sub>real live runs, unedited output</sub></td>
+<td width="33%" align="center"><a href="assets/demos/uplyze-demo-1080p60.mp4"><img src="assets/posters/uplyze.jpg" alt="Uplyze demo video" width="100%"></a><br><b>Uplyze</b> · 54 s<br><sub>AI captions to scheduled posts</sub></td>
+</tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark-v5.svg">
@@ -51,10 +59,12 @@ Software protection and licensing for games and desktop apps. A custom packer wi
 ### <img src="assets/icons/delegate-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[Delegate](https://github.com/LiamSDD/delegate)
 `open source` `TypeScript` `agent platform` `multi-agent`
 
+<a href="assets/demos/delegate-demo-1080p60.mp4"><img src="assets/demos/delegate-loop.gif" alt="Delegate demo: a goal goes in, the plan is approved, agents work in parallel and every claim comes back cited" width="100%"></a>
+
 An agent platform that turns a goal, a company URL or a GitHub repository into finished, verified work: it plans, runs specialist agents in parallel, checks every claim against its source and asks before any side effect. A hand-written agent runtime with a quarantined reader against prompt injection, a policy engine on every tool call, an append-only event log for replay and forks, a REST API with SDK, CLI and signed webhooks, and an MCP server for Claude Code and Codex.
 
 **[Live demo →](https://delegate-beryl.vercel.app)** · **2,700 tests** · evals with confidence intervals on every mission · fork any run from any step · $0 on free models<br>
-[Case study](https://github.com/LiamSDD/delegate/blob/main/docs/CASE_STUDY.md) · [Architecture](https://github.com/LiamSDD/delegate/blob/main/docs/ARCHITECTURE.md)
+[60 s video](assets/demos/delegate-demo-1080p60.mp4) · [Case study](https://github.com/LiamSDD/delegate/blob/main/docs/CASE_STUDY.md) · [Architecture](https://github.com/LiamSDD/delegate/blob/main/docs/ARCHITECTURE.md)
 
 </td>
 </tr>
@@ -75,9 +85,11 @@ Works with Claude Code, Codex, Cursor, Gemini CLI, Antigravity and Kimi. It is t
 ### <img src="assets/icons/uplyze-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[Uplyze](https://uplyze.ai)
 `product` `AI copilot` `growth automation`
 
+<a href="assets/demos/uplyze-demo-1080p60.mp4"><img src="assets/demos/uplyze-loop.gif" alt="Uplyze demo: the AI Content Assistant writes a caption and hashtags, then the post is scheduled" width="100%"></a>
+
 All-in-one growth AI for creators, agencies and businesses. An AI copilot analyses content performance, plans and schedules posts, and automates marketing and sales workflows, replacing a stack of separate tools.
 
-[uplyze.ai](https://uplyze.ai) · live product with Starter, Pro and Studio plans
+[uplyze.ai](https://uplyze.ai) · live product with Starter, Pro and Studio plans · [54 s video](assets/demos/uplyze-demo-1080p60.mp4) (app screens redrawn with demo data)
 
 </td>
 </tr>
