@@ -74,6 +74,8 @@ An agent platform that turns a goal, a company URL or a GitHub repository into f
 ### <img src="assets/icons/harness-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[Claude Code Harness Pro Max](https://github.com/LiamSDD/claude-code-harness-pro-max)
 `open source` `Python` `Claude Code` `harness`
 
+<a href="assets/demos/claude-code-harness-pro-max-demo.mp4"><img src="assets/demos/claude-code-harness-pro-max-loop.gif" alt="Harness demo: it blocks rm -rf /, a leaked API key, and a claim of passing tests with no test run" width="100%"></a>
+
 The harness I use to build software with AI: it blocks destructive commands and leaked secrets, enforces limits on replies, prompts and budgets, routes subagents to the right model, and makes the agent prove its work before it says "done".
 
 **21 skills** · **7 agents** · **238 tests** · **0 dependencies**<br>
@@ -99,6 +101,8 @@ All-in-one growth AI for creators, agencies and businesses. An AI copilot analys
 ### <img src="assets/icons/claude-ledger-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[claude-ledger](https://github.com/LiamSDD/claude-ledger)
 `open source` `Python` `LLM cost`
 
+<a href="assets/demos/claude-ledger-demo.mp4"><img src="assets/demos/claude-ledger-loop.gif" alt="claude-ledger demo: savings tips with their dollar impact, from sample transcripts" width="100%"></a>
+
 Shows where Claude Code tokens and dollars go, by model, project, day, session and subagent, then suggests savings with their dollar impact. Read-only and offline.
 
 **136 tests** · **0 dependencies** · Markdown, JSON and CSV output
@@ -108,6 +112,8 @@ Shows where Claude Code tokens and dollars go, by model, project, day, session a
 
 ### [pixelpath](https://github.com/LiamSDD/pixelpath)
 `open source` `Python` `graphics`
+
+<a href="assets/demos/pixelpath-demo.mp4"><img src="assets/demos/pixelpath-loop.gif" alt="pixelpath demo: SVG icons rendered to transparent PNGs with no dependencies" width="100%"></a>
 
 A zero-dependency SVG rasterizer: renders SVG paths and shapes to anti-aliased, transparent PNGs using only the Python standard library. No Cairo, no Pillow, no native code, and it refuses unsafe XML before parsing.
 
