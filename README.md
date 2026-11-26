@@ -73,7 +73,7 @@ An agent platform that turns a goal, a company URL or a GitHub repository into f
 <td width="50%" valign="top">
 
 ### <img src="assets/icons/harness-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[Claude Code Harness Pro Max](https://github.com/LiamSDD/claude-code-harness-pro-max)
-`open source` `Python` `Claude Code` `harness`
+`Claude Code plugin` `open source` `Python` `harness`
 
 <a href="assets/demos/claude-code-harness-pro-max-demo.mp4"><img src="assets/demos/claude-code-harness-pro-max-loop.gif" alt="Harness demo: it blocks rm -rf /, a leaked API key, and a claim of passing tests with no test run" width="100%"></a>
 
@@ -100,7 +100,7 @@ All-in-one growth AI for creators, agencies and businesses. An AI copilot analys
 <td width="50%" valign="top">
 
 ### <img src="assets/icons/claude-ledger-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[claude-ledger](https://github.com/LiamSDD/claude-ledger)
-`open source` `Python` `LLM cost`
+`CLI for Claude Code` `open source` `Python` `LLM cost`
 
 <a href="assets/demos/claude-ledger-demo.mp4"><img src="assets/demos/claude-ledger-loop.gif" alt="claude-ledger demo: savings tips with their dollar impact, from sample transcripts" width="100%"></a>
 
