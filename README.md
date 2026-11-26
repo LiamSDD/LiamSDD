@@ -10,7 +10,8 @@
 > ▶ **Try it:** [Delegate live demo](https://delegate-beryl.vercel.app), a multi-agent platform running on free models, no sign-up<br>
 > ▶ **Watch it:** the three one-minute videos below<br>
 > ▶ **Read how I think:** [the Delegate case study](https://github.com/LiamSDD/delegate/blob/main/docs/CASE_STUDY.md), covering design choices, trade-offs and what I would do differently<br>
-> ▶ **Looking for:** Applied AI Engineer roles, remote, EU or Canada, no visa needed
+> ▶ **Looking for:** Applied AI Engineer roles, remote, EU or Canada, no visa needed<br>
+> ▶ **Contact:** [liam@ozcagency.com](mailto:liam@ozcagency.com), on the domain of the agency I own and run
 
 <table>
 <tr>
@@ -134,3 +135,5 @@ A zero-dependency SVG rasterizer: renders SVG paths and shapes to anti-aliased, 
 ## Open to work
 
 I am looking for an engineering role where AI is part of how the work gets done. That means building applications, software and products with harness-driven development and clean code, and putting the user's experience first. Remote, with no visa needed in the EU or Canada.
+
+**Get in touch:** [liam@ozcagency.com](mailto:liam@ozcagency.com). I own the agency behind this domain, so it reaches me directly.
