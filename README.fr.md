@@ -6,7 +6,7 @@
   <img alt="LiamSDD, ingénieur IA (Applied AI Engineer) et spécialiste Claude Code. Je conçois des logiciels et des produits avec l'IA au cœur de ma façon de travailler : code propre, vrais garde-fous, utilisateur au centre. Disponible en télétravail, UE et Canada." src="assets/banner-dark.svg" width="100%">
 </picture>
 
-<a href="assets/demos/reel.mp4"><img src="assets/demos/reel.webp" alt="90-second reel of LiamSDD's projects" width="100%"></a>
+<a href="assets/demos/reel.mp4"><img src="assets/demos/reel.avif" alt="90-second reel of LiamSDD's projects" width="100%"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark-fr.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light-fr.svg">

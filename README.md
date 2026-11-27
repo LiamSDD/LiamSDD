@@ -6,7 +6,7 @@
   <img alt="LiamSDD, Applied AI Engineer and Claude Code specialist. I ship software, apps and products efficiently with AI in the loop: clean code, real harnesses, users first. Available for work, remote, EU and Canada. Building Aegis and Uplyze." src="assets/banner-dark.svg" width="100%">
 </picture>
 
-<a href="assets/demos/reel.mp4"><img src="assets/demos/reel.webp" alt="90-second reel of LiamSDD's projects" width="100%"></a>
+<a href="assets/demos/reel.mp4"><img src="assets/demos/reel.avif" alt="90-second reel of LiamSDD's projects" width="100%"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark-v5.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light-v5.svg">
