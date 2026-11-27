@@ -4,14 +4,13 @@
   <img alt="LiamSDD, Applied AI Engineer and Claude Code specialist. I ship software, apps and products efficiently with AI in the loop: clean code, real harnesses, users first. Available for work, remote, EU and Canada. Building Aegis and Uplyze." src="assets/banner-dark.svg" width="100%">
 </picture>
 
-**Applied AI Engineer and Claude Code specialist.** I ship software, applications and products efficiently with AI built into the way I work. I run coding agents inside proper harnesses, so the speed comes with clean, tested, reviewable code, and every decision starts from the user's experience.
+**Applied AI Engineer · Claude Code specialist.** I ship real products fast with AI coding agents, inside harnesses that keep the code clean, tested and easy to review.
 
-> **Hiring? The 90-second path**<br>
-> ▶ **Try it:** [Delegate live demo](https://delegate-beryl.vercel.app), a multi-agent platform running on free models, no sign-up<br>
-> ▶ **Watch it:** the three one-minute videos below<br>
-> ▶ **Read how I think:** [the Delegate case study](https://github.com/LiamSDD/delegate/blob/main/docs/CASE_STUDY.md), covering design choices, trade-offs and what I would do differently<br>
-> ▶ **Looking for:** Applied AI Engineer roles, remote, EU or Canada, no visa needed<br>
-> ▶ **Contact:** [liam@ozcagency.com](mailto:liam@ozcagency.com), on the domain of the agency I own and run · [book a 20-min intro call](https://cal.com/liamsdd/intro-call)
+> **Hiring? Start here**<br>
+> ▶ **Try:** [Delegate live demo](https://delegate-beryl.vercel.app), no sign-up<br>
+> ▶ **Read:** [the Delegate case study](https://github.com/LiamSDD/delegate/blob/main/docs/CASE_STUDY.md)<br>
+> ▶ **Looking for:** Applied AI Engineer roles · remote · EU or Canada<br>
+> ▶ **Contact:** [liam@ozcagency.com](mailto:liam@ozcagency.com) (my own agency's domain) · [book a 20-min call](https://cal.com/liamsdd/intro-call)
 
 <table>
 <tr>
@@ -27,14 +26,13 @@
   <img alt="3,000+ licence keys sold with Aegis. 5 products built and shipped. About 2 years engineering with coding agents daily. 3,349 tests in my open-source projects." src="assets/stats-dark-v5.svg" width="100%">
 </picture>
 
-## What I bring on day one
+## What I bring
 
-- **AI-assisted delivery without the mess.** I build with coding agents every day, inside a harness I wrote myself: skills, permissions, hooks and subagents. You get the speed of AI with code a reviewer can trust. See [Claude Code Harness Pro Max](https://github.com/LiamSDD/claude-code-harness-pro-max) and [Delegate](https://github.com/LiamSDD/delegate).
-- **Code sanity first.** Test-first changes, small pull requests that are easy to review, clear docs and versioned releases. Nothing is called done until it has been verified.
-- **Users before features.** I start from what the user sees and needs, then engineer backwards to fast, clear, simple flows. I don't ship a feature I wouldn't want to use myself.
-- **AI that stays affordable.** Model routing, prompt caching, token budgets and spend reporting keep AI features cheap to run at scale. See [claude-ledger](https://github.com/LiamSDD/claude-ledger).
-- **Security built in.** Licensing, anti-tamper, anti-debug and secret scanning by default, proven in [Aegis](https://shieldaegis.cloud) with 3,000+ licence keys sold.
-- **Ownership from idea to release.** I have designed, built, shipped and sold my own products, so I can own a feature end to end and keep sight of what users actually pay for. See [Uplyze](https://uplyze.ai) and [Aegis](https://shieldaegis.cloud).
+- **AI speed, reviewable code.** Coding agents in a harness I built: tests first, small PRs, verified before "done".
+- **Users first.** I design from what people see and need, then build back to simple, fast flows.
+- **AI that stays cheap.** Model routing, caching and token budgets keep LLM features affordable.
+- **Security by default.** Licensing, anti-tamper and secret scanning, proven in Aegis.
+- **End-to-end ownership.** I've built, shipped and sold my own products.
 
 ## Featured work
 
@@ -43,29 +41,27 @@
 <td width="50%" valign="top">
 
 ### <picture><source media="(prefers-color-scheme: dark)" srcset="assets/aegis-logo-white-text.svg"><source media="(prefers-color-scheme: light)" srcset="assets/aegis-logo-black-text.svg"><img alt="Aegis" src="assets/aegis-logo-white-text.svg" height="30"></picture>
-`product` `founder` `C++` `C` `React` `Electron` `security`
+`founder` `C++` `C` `security`
 
-<a href="https://shieldaegis.cloud"><img src="assets/demos/aegis-loop.gif" alt="Aegis demo: an unprotected game build goes in and ships with seven protection layers" width="100%"></a>
+<a href="assets/demos/aegis-demo-1080p60.mp4"><img src="assets/demos/aegis-loop.gif" alt="Aegis demo: an unprotected game build goes in and ships with seven protection layers" width="100%"></a>
 
-Software protection and licensing for games and desktop apps. A custom packer with code virtualisation, encryption at rest and per-build stubs, combined with licence keys, hardware lock, anti-debug and integrity checks, enforced on both the client and the server.
+Software protection and licensing for games and desktop apps: code virtualisation, encryption at rest, licence keys and anti-tamper, enforced client and server side.
 
-**My role:** founder and lead engineer. I designed and built the native protection engine in C and C++, the licensing server and the React and Electron app developers use to protect a build, over about 8 months from late 2025, with help from a few engineers in my network.
-
-**3,000+ licence keys sold** to mid-size studios shipping on Steam and to independent developers.<br>
-[shieldaegis.cloud](https://shieldaegis.cloud) · [31 s video](assets/demos/aegis-demo-1080p60.mp4) · source is private
+**3,000+ licence keys sold** · founder and lead engineer<br>
+[shieldaegis.cloud](https://shieldaegis.cloud) · [video](assets/demos/aegis-demo-1080p60.mp4) · private source
 
 </td>
 <td width="50%" valign="top">
 
 ### <img src="assets/icons/delegate-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[Delegate](https://github.com/LiamSDD/delegate)
-`open source` `TypeScript` `agent platform` `multi-agent`
+`open source` `TypeScript` `multi-agent`
 
 <a href="assets/demos/delegate-demo-1080p60.mp4"><img src="assets/demos/delegate-loop.gif" alt="Delegate demo: a goal goes in, the plan is approved, agents work in parallel and every claim comes back cited" width="100%"></a>
 
-An agent platform that turns a goal, a company URL or a GitHub repository into finished, verified work: it plans, runs specialist agents in parallel, checks every claim against its source and asks before any side effect. A hand-written agent runtime with a quarantined reader against prompt injection, a policy engine on every tool call, an append-only event log for replay and forks, a REST API with SDK, CLI and signed webhooks, and an MCP server for Claude Code and Codex.
+Turns a goal, a company URL or a repo into finished, verified work. Agents run in parallel, every claim is checked against its source, and risky actions wait for approval.
 
-**[Live demo →](https://delegate-beryl.vercel.app)** · **2,700 tests** · evals with confidence intervals on every mission · fork any run from any step · $0 on free models<br>
-[60 s video](assets/demos/delegate-demo-1080p60.mp4) · [Case study](https://github.com/LiamSDD/delegate/blob/main/docs/CASE_STUDY.md) · [Architecture](https://github.com/LiamSDD/delegate/blob/main/docs/ARCHITECTURE.md)
+**2,700 tests** · runs for $0 on free models<br>
+[live demo](https://delegate-beryl.vercel.app) · [video](assets/demos/delegate-demo-1080p60.mp4) · [case study](https://github.com/LiamSDD/delegate/blob/main/docs/CASE_STUDY.md)
 
 </td>
 </tr>
@@ -73,26 +69,27 @@ An agent platform that turns a goal, a company URL or a GitHub repository into f
 <td width="50%" valign="top">
 
 ### <img src="assets/icons/harness-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[Claude Code Harness Pro Max](https://github.com/LiamSDD/claude-code-harness-pro-max)
-`Claude Code plugin` `open source` `Python` `harness`
+`Claude Code plugin` `open source` `Python`
 
 <a href="assets/demos/claude-code-harness-pro-max-demo.mp4"><img src="assets/demos/claude-code-harness-pro-max-loop.gif" alt="Harness demo: it blocks rm -rf /, a leaked API key, and a claim of passing tests with no test run" width="100%"></a>
 
-The harness I use to build software with AI: it blocks destructive commands and leaked secrets, enforces limits on replies, prompts and budgets, routes subagents to the right model, and makes the agent prove its work before it says "done".
+Guardrails for AI coding agents: blocks destructive commands and leaked secrets, caps cost, and makes the agent prove its work.
 
-**21 skills** · **7 agents** · **238 tests** · **0 dependencies**<br>
-Works with Claude Code, Codex, Cursor, Gemini CLI, Antigravity and Kimi. It is the harness every project on this profile was built with.
+**238 tests** · 0 dependencies · works with 6 coding agents<br>
+[source](https://github.com/LiamSDD/claude-code-harness-pro-max) · [video](assets/demos/claude-code-harness-pro-max-demo.mp4)
 
 </td>
 <td width="50%" valign="top">
 
 ### <img src="assets/icons/uplyze-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[Uplyze](https://uplyze.ai)
-`product` `AI copilot` `growth automation`
+`product` `AI copilot` `automation`
 
 <a href="assets/demos/uplyze-demo-1080p60.mp4"><img src="assets/demos/uplyze-loop.gif" alt="Uplyze demo: the AI Content Assistant writes a caption and hashtags, then the post is scheduled" width="100%"></a>
 
-All-in-one growth AI for creators, agencies and businesses. An AI copilot analyses content performance, plans and schedules posts, and automates marketing and sales workflows, replacing a stack of separate tools.
+All-in-one growth AI for creators and businesses: AI replies and DMs, content, scheduling and insights in one place.
 
-[uplyze.ai](https://uplyze.ai) · live product with Starter, Pro and Studio plans · [54 s video](assets/demos/uplyze-demo-1080p60.mp4) (app screens redrawn with demo data)
+**Live product** with paid plans<br>
+[uplyze.ai](https://uplyze.ai) · [video](assets/demos/uplyze-demo-1080p60.mp4) (screens redrawn with demo data)
 
 </td>
 </tr>
@@ -100,13 +97,14 @@ All-in-one growth AI for creators, agencies and businesses. An AI copilot analys
 <td width="50%" valign="top">
 
 ### <img src="assets/icons/claude-ledger-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[claude-ledger](https://github.com/LiamSDD/claude-ledger)
-`CLI for Claude Code` `open source` `Python` `LLM cost`
+`CLI for Claude Code` `open source` `Python`
 
 <a href="assets/demos/claude-ledger-demo.mp4"><img src="assets/demos/claude-ledger-loop.gif" alt="claude-ledger demo: savings tips with their dollar impact, from sample transcripts" width="100%"></a>
 
-Shows where Claude Code tokens and dollars go, by model, project, day, session and subagent, then suggests savings with their dollar impact. Read-only and offline.
+Shows where your Claude Code tokens and dollars go, then suggests savings with their impact.
 
-**136 tests** · **0 dependencies** · Markdown, JSON and CSV output
+**136 tests** · 0 dependencies · offline<br>
+[source](https://github.com/LiamSDD/claude-ledger) · [video](assets/demos/claude-ledger-demo.mp4)
 
 </td>
 <td width="50%" valign="top">
@@ -116,24 +114,23 @@ Shows where Claude Code tokens and dollars go, by model, project, day, session a
 
 <a href="assets/demos/pixelpath-demo.mp4"><img src="assets/demos/pixelpath-loop.gif" alt="pixelpath demo: SVG icons rendered to transparent PNGs with no dependencies" width="100%"></a>
 
-A zero-dependency SVG rasterizer: renders SVG paths and shapes to anti-aliased, transparent PNGs using only the Python standard library. No Cairo, no Pillow, no native code, and it refuses unsafe XML before parsing.
+Renders SVG to crisp, transparent PNGs with only the Python standard library.
 
-**275 tests** · **0 dependencies** · bounded output size
+**275 tests** · 0 dependencies · safe XML<br>
+[source](https://github.com/LiamSDD/pixelpath) · [video](assets/demos/pixelpath-demo.mp4)
 
 </td>
 </tr>
 </table>
 
-**Also built** (private source): **ChatFlow**, an AI assistant that answers Instagram Direct, Messenger and WhatsApp conversations in a natural tone, and **Vocalis**, which turns a consented voice, an instrumental and lyrics into a complete song in that voice.
+**Also built:** ChatFlow (AI replies for Instagram, Messenger and WhatsApp) and Vocalis (AI song generation from a consented voice).
 
 ## Stack
 
-**Daily:** Python · TypeScript · C++ · C · SQL (Postgres) · Next.js · React · Electron<br>
-**AI engineering:** Claude Code · Anthropic API · OpenAI Codex · Cursor · MCP · multi-agent orchestration · evals<br>
-**Ask me about:** hand-written agent runtimes and why I avoid frameworks · code virtualisation and licensing at scale · cutting LLM cost without losing quality
+**Daily:** Python · TypeScript · C++ · C · Postgres · Next.js · React · Electron<br>
+**AI:** Claude Code · Anthropic API · Codex · Cursor · MCP · multi-agent · evals<br>
+**Ask me about:** agent runtimes without frameworks · code virtualisation · cutting LLM cost
 
-## Open to work
+---
 
-I am looking for an engineering role where AI is part of how the work gets done. That means building applications, software and products with harness-driven development and clean code, and putting the user's experience first. Remote, with no visa needed in the EU or Canada.
-
-**Get in touch:** [liam@ozcagency.com](mailto:liam@ozcagency.com). I own the agency behind this domain, so it reaches me directly. Or [book a 20-minute intro call](https://cal.com/liamsdd/intro-call).
+**Open to work** · remote · EU or Canada · [liam@ozcagency.com](mailto:liam@ozcagency.com) · [book a call](https://cal.com/liamsdd/intro-call) · [portfolio](https://liamsdd.github.io)
