@@ -12,7 +12,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark-fr.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light-fr.svg">
-  <img alt="3 000+ licences vendues avec Aegis. 5 produits conçus et lancés. Environ 2 ans de développement avec des agents IA. 3 349 tests dans mes projets open source." src="assets/stats-dark-fr.svg" width="100%">
+  <img alt="3 000+ activations de licence avec Aegis. 5 produits conçus et lancés. Environ 2 ans de développement avec des agents IA. 3 349 tests dans mes projets open source." src="assets/stats-dark-fr.svg" width="100%">
 </picture>
 
 > **Vous recrutez ? Commencez ici**<br>
@@ -42,7 +42,7 @@
 
 Protection logicielle et gestion de licences pour jeux vidéo et applications desktop : virtualisation du code, chiffrement au repos, clés de licence et anti-falsification, côté client comme côté serveur.
 
-**Plus de 3 000 licences vendues** · fondateur et lead dev<br>
+**Plus de 3 000 activations de licence** · fondateur et lead dev<br>
 [shieldaegis.cloud](https://shieldaegis.cloud) · [vidéo](assets/demos/aegis-demo-1080p60.mp4) · code source privé
 
 </td>

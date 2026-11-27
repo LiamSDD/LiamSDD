@@ -12,7 +12,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark-v5.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light-v5.svg">
-  <img alt="3,000+ licence keys sold with Aegis. 5 products built and shipped. About 2 years engineering with coding agents daily. 3,349 tests in my open-source projects." src="assets/stats-dark-v5.svg" width="100%">
+  <img alt="3,000+ licence activations with Aegis. 5 products built and shipped. About 2 years engineering with coding agents daily. 3,349 tests in my open-source projects." src="assets/stats-dark-v5.svg" width="100%">
 </picture>
 
 > **Hiring? Start here**<br>
@@ -42,7 +42,7 @@
 
 Software protection and licensing for games and desktop apps: code virtualisation, encryption at rest, licence keys and anti-tamper, enforced client and server side.
 
-**3,000+ licence keys sold** · founder and lead engineer<br>
+**3,000+ licence activations** · founder and lead engineer<br>
 [shieldaegis.cloud](https://shieldaegis.cloud) · [video](assets/demos/aegis-demo-1080p60.mp4) · private source
 
 </td>
