@@ -43,7 +43,7 @@
 Protection logicielle et gestion de licences pour jeux vidéo et applications desktop : virtualisation du code, chiffrement au repos, clés de licence et anti-falsification, côté client comme côté serveur.
 
 **Plus de 3 000 activations de licence** · fondateur et lead dev<br>
-[shieldaegis.cloud](https://shieldaegis.cloud) · [vidéo](assets/demos/aegis-demo-1080p60.mp4) · code source privé
+[shieldaegis.cloud](https://shieldaegis.cloud) · [vidéo](assets/demos/aegis-demo-1080p60.mp4) · [étude de cas](https://liamsdd.github.io/writing/aegis/?lang=fr) · code source privé
 
 </td>
 <td width="50%" valign="top">
@@ -84,7 +84,7 @@ Des garde-fous pour les agents de code IA : il bloque les commandes destructrice
 La plateforme de croissance tout-en-un, propulsée par l'IA, pour les créateurs et les entreprises : réponses et messages privés automatisés, contenus, planification et statistiques au même endroit.
 
 **Produit en production**, avec offres payantes<br>
-[uplyze.ai](https://uplyze.ai) · [vidéo](assets/demos/uplyze-demo-1080p60.mp4)
+[uplyze.ai](https://uplyze.ai) · [vidéo](assets/demos/uplyze-demo-1080p60.mp4) · [étude de cas](https://liamsdd.github.io/writing/uplyze/?lang=fr)
 
 </td>
 </tr>

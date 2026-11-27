@@ -43,7 +43,7 @@
 Software protection and licensing for games and desktop apps: code virtualisation, encryption at rest, licence keys and anti-tamper, enforced client and server side.
 
 **3,000+ licence activations** · founder and lead engineer<br>
-[shieldaegis.cloud](https://shieldaegis.cloud) · [video](assets/demos/aegis-demo-1080p60.mp4) · private source
+[shieldaegis.cloud](https://shieldaegis.cloud) · [video](assets/demos/aegis-demo-1080p60.mp4) · [case study](https://liamsdd.github.io/writing/aegis/) · private source
 
 </td>
 <td width="50%" valign="top">
@@ -84,7 +84,7 @@ Guardrails for AI coding agents: blocks destructive commands and leaked secrets,
 All-in-one growth AI for creators and businesses: AI replies and DMs, content, scheduling and insights in one place.
 
 **Live product** with paid plans<br>
-[uplyze.ai](https://uplyze.ai) · [video](assets/demos/uplyze-demo-1080p60.mp4)
+[uplyze.ai](https://uplyze.ai) · [video](assets/demos/uplyze-demo-1080p60.mp4) · [case study](https://liamsdd.github.io/writing/uplyze/)
 
 </td>
 </tr>
