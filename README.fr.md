@@ -71,7 +71,7 @@ Protection logicielle et gestion de licences pour jeux vidéo et applications de
 ### <img src="assets/icons/harness-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[Claude Code Harness Pro Max](https://github.com/LiamSDD/claude-code-harness-pro-max)
 `plugin Claude Code` `open source` `Python`
 
-<a href="assets/demos/claude-code-harness-pro-max-demo.mp4"><img src="assets/demos/claude-code-harness-pro-max-loop.gif" alt="Démo du harness : il bloque rm -rf /, une clé d'API divulguée et une affirmation de tests réussis sans aucun test lancé" width="100%"></a>
+<a href="assets/demos/claude-code-harness-pro-max-demo.mp4"><img src="assets/demos/claude-code-harness-pro-max-full.webp" alt="Démo du harness : il bloque rm -rf /, une clé d'API divulguée et une affirmation de tests réussis sans aucun test lancé" width="100%"></a>
 
 Des garde-fous pour les agents de code IA : il bloque les commandes destructrices et les fuites de secrets, plafonne les coûts et oblige l'agent à prouver ce qu'il avance.
 

@@ -71,7 +71,7 @@ Turns a goal, a company URL or a repo into finished, verified work. Agents run i
 ### <img src="assets/icons/harness-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[Claude Code Harness Pro Max](https://github.com/LiamSDD/claude-code-harness-pro-max)
 `Claude Code plugin` `open source` `Python`
 
-<a href="assets/demos/claude-code-harness-pro-max-demo.mp4"><img src="assets/demos/claude-code-harness-pro-max-loop.gif" alt="Harness demo: it blocks rm -rf /, a leaked API key, and a claim of passing tests with no test run" width="100%"></a>
+<a href="assets/demos/claude-code-harness-pro-max-demo.mp4"><img src="assets/demos/claude-code-harness-pro-max-full.webp" alt="Harness demo: it blocks rm -rf /, a leaked API key, and a claim of passing tests with no test run" width="100%"></a>
 
 Guardrails for AI coding agents: blocks destructive commands and leaked secrets, caps cost, and makes the agent prove its work.
 
