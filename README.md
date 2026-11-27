@@ -56,7 +56,7 @@ Software protection and licensing for games and desktop apps: code virtualisatio
 ### <img src="assets/icons/delegate-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[Delegate](https://github.com/LiamSDD/delegate)
 `open source` `TypeScript` `multi-agent`
 
-https://github.com/user-attachments/assets/39ab2a69-0afc-4564-a167-702efebe63e1
+<a href="assets/demos/delegate-demo-1080p60.mp4"><img src="assets/demos/delegate-full.webp" alt="Delegate demo: a company URL goes in, agents audit it in parallel, and Build it crawls the site into a tested assistant" width="100%"></a>
 
 Turns a goal, a company URL or a repo into finished, verified work. Agents run in parallel, every claim is checked against its source, and risky actions wait for approval.
 
@@ -84,7 +84,7 @@ Guardrails for AI coding agents: blocks destructive commands and leaked secrets,
 ### <img src="assets/icons/uplyze-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[Uplyze](https://uplyze.ai)
 `product` `AI copilot` `automation`
 
-https://github.com/user-attachments/assets/68d9cb0d-f5b2-4943-9aa7-08bd706e5054
+<a href="assets/demos/uplyze-demo-1080p60.mp4"><img src="assets/demos/uplyze-full.webp" alt="Uplyze demo: AI replies to DMs in your tone, a DM campaign brings in leads, then captions, scheduling and insights" width="100%"></a>
 
 All-in-one growth AI for creators and businesses: AI replies and DMs, content, scheduling and insights in one place.
 
