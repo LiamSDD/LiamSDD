@@ -1,10 +1,10 @@
+<p align="right"><a href="https://github.com/LiamSDD">English</a> · <b>Français</b></p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
   <img alt="LiamSDD, ingénieur IA (Applied AI Engineer) et spécialiste Claude Code. Je conçois des logiciels et des produits avec l'IA au cœur de ma façon de travailler : code propre, vrais garde-fous, utilisateur au centre. Disponible en télétravail, UE et Canada." src="assets/banner-dark.svg" width="100%">
 </picture>
-
-<p align="right"><a href="https://github.com/LiamSDD">English</a> · <b>Français</b></p>
 
 <table>
 <tr>

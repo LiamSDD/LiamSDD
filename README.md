@@ -1,10 +1,10 @@
+<p align="right"><b>English</b> · <a href="README.fr.md">Français</a></p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
   <img alt="LiamSDD, Applied AI Engineer and Claude Code specialist. I ship software, apps and products efficiently with AI in the loop: clean code, real harnesses, users first. Available for work, remote, EU and Canada. Building Aegis and Uplyze." src="assets/banner-dark.svg" width="100%">
 </picture>
-
-<p align="right"><b>English</b> · <a href="README.fr.md">Français</a></p>
 
 <table>
 <tr>
