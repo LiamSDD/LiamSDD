@@ -7,7 +7,6 @@
 </picture>
 
 <a href="assets/demos/reel.mp4"><img src="assets/demos/reel.webp" alt="90-second reel of LiamSDD's projects" width="100%"></a>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark-v5.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light-v5.svg">
