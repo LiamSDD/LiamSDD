@@ -16,7 +16,7 @@
 <tr>
 <td width="33%" align="center"><a href="assets/demos/aegis-demo-1080p60.mp4"><img src="assets/posters/aegis.jpg" alt="Aegis demo video" width="100%"></a><br><b>Aegis</b> · 31 s<br><sub>protecting a game build</sub></td>
 <td width="33%" align="center"><a href="assets/demos/delegate-demo-1080p60.mp4"><img src="assets/posters/delegate.jpg" alt="Delegate demo video" width="100%"></a><br><b>Delegate</b> · 60 s<br><sub>real live runs, unedited output</sub></td>
-<td width="33%" align="center"><a href="assets/demos/uplyze-demo-1080p60.mp4"><img src="assets/posters/uplyze.jpg" alt="Uplyze demo video" width="100%"></a><br><b>Uplyze</b> · 54 s<br><sub>AI captions to scheduled posts</sub></td>
+<td width="33%" align="center"><a href="assets/demos/uplyze-demo-1080p60.mp4"><img src="assets/posters/uplyze.jpg" alt="Uplyze demo video" width="100%"></a><br><b>Uplyze</b> · 59 s<br><sub>AI DMs, campaigns and content</sub></td>
 </tr>
 </table>
 
