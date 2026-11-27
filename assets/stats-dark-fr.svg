@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="132" viewBox="0 0 1280 132" role="img" aria-label="3 000+ licences vendues avec Aegis, 5 produits conçus et lancés, environ 2 ans de développement quotidien avec des agents IA, 3 349 tests dans mes projets open source">
+<rect x="0.5" y="0.5" width="1279" height="131" rx="12" fill="#0D1117" stroke="#30363D"/>
+<text x="40" y="68" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-0.8" fill="#F0F3F6">3 000+</text>
+<text x="40" y="98" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#9198A1">licences vendues avec Aegis</text>
+<line x1="320" y1="28" x2="320" y2="104" stroke="#3D444D"/>
+<text x="360" y="68" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-0.8" fill="#F0F3F6">5</text>
+<text x="360" y="98" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#9198A1">produits conçus et lancés</text>
+<line x1="640" y1="28" x2="640" y2="104" stroke="#3D444D"/>
+<text x="680" y="68" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-0.8" fill="#F0F3F6">~2 ans</text>
+<text x="680" y="98" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#9198A1">de dev quotidien avec agents IA</text>
+<line x1="960" y1="28" x2="960" y2="104" stroke="#3D444D"/>
+<text x="1000" y="68" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="-0.8" fill="#F0F3F6">3 349</text>
+<text x="1000" y="98" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif" font-size="15" fill="#9198A1">tests dans mes projets open source</text>
+</svg>

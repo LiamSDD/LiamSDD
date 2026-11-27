@@ -4,6 +4,8 @@
   <img alt="LiamSDD, Applied AI Engineer and Claude Code specialist. I ship software, apps and products efficiently with AI in the loop: clean code, real harnesses, users first. Available for work, remote, EU and Canada. Building Aegis and Uplyze." src="assets/banner-dark.svg" width="100%">
 </picture>
 
+<p align="right"><b>English</b> · <a href="README.fr.md">Français</a></p>
+
 <table>
 <tr>
 <td width="33%" align="center"><a href="assets/demos/aegis-demo-1080p60.mp4"><img src="assets/posters/aegis.jpg" alt="Aegis demo video" width="100%"></a><br><b>Aegis</b> · 31 s<br><sub>protecting a game build</sub></td>
