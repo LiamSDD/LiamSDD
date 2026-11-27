@@ -24,7 +24,7 @@
 - **AI speed, reviewable code.** Coding agents in a harness I built: tests first, small PRs, verified before "done".
 - **Users first.** I design from what people see and need, then build back to simple, fast flows.
 - **AI that stays cheap.** Model routing, caching and token budgets keep LLM features affordable.
-- **Software and cyber security.** Client- and server-side protection (custom packer, code virtualisation, anti-tamper), exploit patching, encrypted traffic, and full authentication systems: server-validated keys, sessions, HMAC signing. Proven in production with Aegis.
+- **Software and cyber security.** Client- and server-side protection (custom packer, code virtualisation, anti-tamper), exploit patching, encrypted traffic, and full authentication systems: server-validated keys, sessions, HMAC signing. Learned and applied hands-on, in real time, across many iterations of Aegis's commercial production builds.
 - **End-to-end ownership.** I've built, shipped and sold my own products.
 
 ## Featured work
