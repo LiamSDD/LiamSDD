@@ -1,8 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-label="claude-ledger">
 <title>claude-ledger</title>
-<rect width="64" height="64" rx="14" fill="#0f1011"/><rect x="0.5" y="0.5" width="63" height="63" rx="13.5" fill="none" stroke="#2a2c30"/>
-<g transform="translate(12 12) scale(2)" fill="none" stroke-width="1.5" stroke-linecap="square">
-<path d="M4.25 16.25h11.5" stroke="#ededec"/>
-<path d="M6.5 13.25v-2.5M10 13.25v-5M13.5 13.25v-8" stroke="#f0a04b"/>
+<style>.fg{stroke:#17181a}.fgf{fill:#17181a}@media (prefers-color-scheme:dark){.fg{stroke:#ededec}.fgf{fill:#ededec}}</style>
+<g transform="translate(4 4) scale(2.8)" fill="none" stroke-width="1.5">
+<path class="fg" d="M4.25 16.25h11.5" stroke-linecap="square"/><path d="M6.5 13.25v-2.5M10 13.25v-5M13.5 13.25v-8" stroke="#e08a2e" stroke-linecap="square"/>
 </g>
 </svg>

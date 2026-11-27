@@ -4,14 +4,6 @@
   <img alt="LiamSDD, Applied AI Engineer and Claude Code specialist. I ship software, apps and products efficiently with AI in the loop: clean code, real harnesses, users first. Available for work, remote, EU and Canada. Building Aegis and Uplyze." src="assets/banner-dark.svg" width="100%">
 </picture>
 
-**Applied AI Engineer · Claude Code specialist.** I ship real products fast with AI coding agents, inside harnesses that keep the code clean, tested and easy to review.
-
-> **Hiring? Start here**<br>
-> ▶ **Try:** [Delegate live demo](https://delegate-beryl.vercel.app), no sign-up<br>
-> ▶ **Read:** [the Delegate case study](https://github.com/LiamSDD/delegate/blob/main/docs/CASE_STUDY.md)<br>
-> ▶ **Looking for:** Applied AI Engineer roles · remote · EU or Canada<br>
-> ▶ **Contact:** [liam@ozcagency.com](mailto:liam@ozcagency.com) (my own agency's domain) · [book a 20-min call](https://cal.com/liamsdd/intro-call)
-
 <table>
 <tr>
 <td width="33%" align="center"><a href="assets/demos/aegis-demo-1080p60.mp4"><img src="assets/posters/aegis.jpg" alt="Aegis demo video" width="100%"></a><br><b>Aegis</b> · 31 s<br><sub>protecting a game build</sub></td>
@@ -25,6 +17,12 @@
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light-v5.svg">
   <img alt="3,000+ licence keys sold with Aegis. 5 products built and shipped. About 2 years engineering with coding agents daily. 3,349 tests in my open-source projects." src="assets/stats-dark-v5.svg" width="100%">
 </picture>
+
+> **Hiring? Start here**<br>
+> ▶ **Try:** [Delegate live demo](https://delegate-beryl.vercel.app), no sign-up<br>
+> ▶ **Read:** [the Delegate case study](https://github.com/LiamSDD/delegate/blob/main/docs/CASE_STUDY.md)<br>
+> ▶ **Looking for:** Applied AI Engineer roles · remote · EU or Canada<br>
+> ▶ **Contact:** [liam@ozcagency.com](mailto:liam@ozcagency.com) (my own agency's domain) · [book a 20-min call](https://cal.com/liamsdd/intro-call)
 
 ## What I bring
 
@@ -89,7 +87,7 @@ Guardrails for AI coding agents: blocks destructive commands and leaked secrets,
 All-in-one growth AI for creators and businesses: AI replies and DMs, content, scheduling and insights in one place.
 
 **Live product** with paid plans<br>
-[uplyze.ai](https://uplyze.ai) · [video](assets/demos/uplyze-demo-1080p60.mp4) (screens redrawn with demo data)
+[uplyze.ai](https://uplyze.ai) · [video](assets/demos/uplyze-demo-1080p60.mp4)
 
 </td>
 </tr>
