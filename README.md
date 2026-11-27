@@ -7,7 +7,6 @@
 </picture>
 
 <a href="assets/demos/reel.mp4"><img src="assets/demos/reel.webp" alt="90-second reel of LiamSDD's projects" width="100%"></a>
-<p align="center"><sub><b>90-second reel</b> · Aegis, Delegate, Uplyze and the open-source tools · <a href="assets/demos/reel.mp4">watch in HD</a></sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark-v5.svg">
