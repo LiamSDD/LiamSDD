@@ -111,7 +111,7 @@ Shows where Claude Code tokens and dollars go, by model, project, day, session a
 </td>
 <td width="50%" valign="top">
 
-### [pixelpath](https://github.com/LiamSDD/pixelpath)
+### <img src="assets/icons/pixelpath-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[pixelpath](https://github.com/LiamSDD/pixelpath)
 `open source` `Python` `graphics`
 
 <a href="assets/demos/pixelpath-demo.mp4"><img src="assets/demos/pixelpath-loop.gif" alt="pixelpath demo: SVG icons rendered to transparent PNGs with no dependencies" width="100%"></a>
