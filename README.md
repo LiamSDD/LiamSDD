@@ -6,13 +6,8 @@
   <img alt="LiamSDD, Applied AI Engineer and Claude Code specialist. I ship software, apps and products efficiently with AI in the loop: clean code, real harnesses, users first. Available for work, remote, EU and Canada. Building Aegis and Uplyze." src="assets/banner-dark.svg" width="100%">
 </picture>
 
-<table>
-<tr>
-<td width="33%" align="center"><a href="assets/demos/aegis-demo-1080p60.mp4"><img src="assets/posters/aegis.jpg" alt="Aegis demo video" width="100%"></a><br><b>Aegis</b> · 31 s<br><sub>protecting a game build</sub></td>
-<td width="33%" align="center"><a href="assets/demos/delegate-demo-1080p60.mp4"><img src="assets/posters/delegate.jpg" alt="Delegate demo video" width="100%"></a><br><b>Delegate</b> · 62 s<br><sub>one URL in, a built assistant out</sub></td>
-<td width="33%" align="center"><a href="assets/demos/uplyze-demo-1080p60.mp4"><img src="assets/posters/uplyze.jpg" alt="Uplyze demo video" width="100%"></a><br><b>Uplyze</b> · 59 s<br><sub>AI DMs, campaigns and content</sub></td>
-</tr>
-</table>
+<a href="assets/demos/reel.mp4"><img src="assets/demos/reel.webp" alt="90-second reel of LiamSDD's projects" width="100%"></a>
+<p align="center"><sub><b>90-second reel</b> · Aegis, Delegate, Uplyze and the open-source tools · <a href="assets/demos/reel.mp4">watch in HD</a></sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark-v5.svg">

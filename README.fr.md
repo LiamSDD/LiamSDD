@@ -6,13 +6,8 @@
   <img alt="LiamSDD, ingénieur IA (Applied AI Engineer) et spécialiste Claude Code. Je conçois des logiciels et des produits avec l'IA au cœur de ma façon de travailler : code propre, vrais garde-fous, utilisateur au centre. Disponible en télétravail, UE et Canada." src="assets/banner-dark.svg" width="100%">
 </picture>
 
-<table>
-<tr>
-<td width="33%" align="center"><a href="assets/demos/aegis-demo-1080p60.mp4"><img src="assets/posters/aegis.jpg" alt="Vidéo de démo Aegis" width="100%"></a><br><b>Aegis</b> · 31 s<br><sub>protéger le build d'un jeu</sub></td>
-<td width="33%" align="center"><a href="assets/demos/delegate-demo-1080p60.mp4"><img src="assets/posters/delegate.jpg" alt="Vidéo de démo Delegate" width="100%"></a><br><b>Delegate</b> · 62 s<br><sub>une URL en entrée, un assistant prêt à l'emploi en sortie</sub></td>
-<td width="33%" align="center"><a href="assets/demos/uplyze-demo-1080p60.mp4"><img src="assets/posters/uplyze.jpg" alt="Vidéo de démo Uplyze" width="100%"></a><br><b>Uplyze</b> · 59 s<br><sub>messages automatisés, campagnes et contenus</sub></td>
-</tr>
-</table>
+<a href="assets/demos/reel.mp4"><img src="assets/demos/reel.webp" alt="90-second reel of LiamSDD's projects" width="100%"></a>
+<p align="center"><sub><b>Bande démo de 90 secondes</b> · Aegis, Delegate, Uplyze et les outils open source · <a href="assets/demos/reel.mp4">voir en HD</a></sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark-fr.svg">
