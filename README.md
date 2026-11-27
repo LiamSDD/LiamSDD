@@ -15,7 +15,7 @@
 <table>
 <tr>
 <td width="33%" align="center"><a href="assets/demos/aegis-demo-1080p60.mp4"><img src="assets/posters/aegis.jpg" alt="Aegis demo video" width="100%"></a><br><b>Aegis</b> · 31 s<br><sub>protecting a game build</sub></td>
-<td width="33%" align="center"><a href="assets/demos/delegate-demo-1080p60.mp4"><img src="assets/posters/delegate.jpg" alt="Delegate demo video" width="100%"></a><br><b>Delegate</b> · 60 s<br><sub>real live runs, unedited output</sub></td>
+<td width="33%" align="center"><a href="assets/demos/delegate-demo-1080p60.mp4"><img src="assets/posters/delegate.jpg" alt="Delegate demo video" width="100%"></a><br><b>Delegate</b> · 62 s<br><sub>one URL in, a built assistant out</sub></td>
 <td width="33%" align="center"><a href="assets/demos/uplyze-demo-1080p60.mp4"><img src="assets/posters/uplyze.jpg" alt="Uplyze demo video" width="100%"></a><br><b>Uplyze</b> · 59 s<br><sub>AI DMs, campaigns and content</sub></td>
 </tr>
 </table>
@@ -56,7 +56,7 @@ Software protection and licensing for games and desktop apps: code virtualisatio
 ### <img src="assets/icons/delegate-mark.svg" alt="" height="36" align="absmiddle">&nbsp;[Delegate](https://github.com/LiamSDD/delegate)
 `open source` `TypeScript` `multi-agent`
 
-<a href="assets/demos/delegate-demo-1080p60.mp4"><img src="assets/demos/delegate-loop.gif" alt="Delegate demo: a goal goes in, the plan is approved, agents work in parallel and every claim comes back cited" width="100%"></a>
+<a href="assets/demos/delegate-demo-1080p60.mp4"><img src="assets/demos/delegate-loop.gif" alt="Delegate demo: a company URL goes in, agents audit it in parallel, and Build it crawls the site into a tested assistant" width="100%"></a>
 
 Turns a goal, a company URL or a repo into finished, verified work. Agents run in parallel, every claim is checked against its source, and risky actions wait for approval.
 
