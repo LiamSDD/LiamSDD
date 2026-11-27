@@ -24,7 +24,7 @@
 - **La rapidité de l'IA, sans sacrifier la qualité.** Mes agents de code travaillent dans un cadre que j'ai conçu : tests d'abord, petites PR faciles à relire, et rien n'est terminé tant que ce n'est pas vérifié.
 - **L'utilisateur au centre.** Je pars de ce que les gens voient et attendent, puis je conçois des parcours simples et rapides.
 - **Des coûts d'IA maîtrisés.** Routage entre modèles, mise en cache et budgets de tokens pour que les fonctionnalités LLM restent rentables.
-- **La sécurité dès la conception.** Gestion des licences, protection anti-falsification et détection de secrets, éprouvées avec Aegis.
+- **Sécurité logicielle et cybersécurité.** Protection côté client et côté serveur (packer sur mesure, virtualisation du code, anti-falsification), correction de failles exploitées, chiffrement du trafic et systèmes d'authentification complets : clés validées côté serveur, sessions, signatures HMAC. Éprouvé en production avec Aegis.
 - **Une vision produit de bout en bout.** J'ai conçu, lancé et commercialisé mes propres produits.
 
 ## Projets phares
