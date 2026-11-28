@@ -10,7 +10,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark-fr.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light-fr.svg">
-  <img alt="3 000+ activations de licence avec Aegis. 5 produits conçus et lancés. Environ 2 ans de développement avec des agents IA. 3 349 tests dans mes projets open source." src="assets/stats-dark-fr.svg" width="100%">
+  <img alt="3 000+ activations de licence avec Aegis. 5 produits conçus et lancés. Environ 2 ans de développement avec des agents IA. 3 358 tests dans mes projets open source." src="assets/stats-dark-fr.svg" width="100%">
 </picture>
 
 > **Vous recrutez ? Commencez ici**<br>
@@ -40,7 +40,7 @@
 
 Protection logicielle et gestion de licences pour jeux vidéo et applications desktop : virtualisation du code, chiffrement au repos, clés de licence et anti-falsification, côté client comme côté serveur.
 
-**Plus de 3 000 activations de licence** · fondateur et lead dev<br>
+**Plus de 3 000 activations de licence** · CEO, fondateur et ingénieur IA · mai 2024 – août 2026<br>
 [shieldaegis.cloud](https://shieldaegis.cloud) · [vidéo](assets/demos/aegis-demo-1080p60.mp4) · [étude de cas](https://liamsdd.github.io/writing/aegis/?lang=fr) · code source privé
 
 </td>
@@ -81,7 +81,7 @@ Des garde-fous pour les agents de code IA : il bloque les commandes destructrice
 
 La plateforme de croissance tout-en-un, propulsée par l'IA, pour les créateurs et les entreprises : réponses et messages privés automatisés, contenus, planification et statistiques au même endroit.
 
-**Produit en production**, avec offres payantes<br>
+**Produit en production**, avec offres payantes · CEO, fondateur et ingénieur IA · juin 2025 – oct. 2026<br>
 [uplyze.ai](https://uplyze.ai) · [vidéo](assets/demos/uplyze-demo-1080p60.mp4) · [étude de cas](https://liamsdd.github.io/writing/uplyze/?lang=fr)
 
 </td>
@@ -96,7 +96,7 @@ La plateforme de croissance tout-en-un, propulsée par l'IA, pour les créateurs
 
 Montre où partent vos tokens et vos dollars Claude Code, puis propose des économies chiffrées.
 
-**136 tests** · 0 dépendance · hors ligne<br>
+**145 tests** · 0 dépendance · hors ligne<br>
 [code source](https://github.com/LiamSDD/claude-ledger) · [vidéo](assets/demos/claude-ledger-demo.mp4)
 
 </td>

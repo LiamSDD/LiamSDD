@@ -3,14 +3,14 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
-  <img alt="LiamSDD, Applied AI Engineer and Claude Code specialist. I ship software, apps and products efficiently with AI in the loop: clean code, real harnesses, users first. Available for work, remote, EU and Canada. Building Aegis and Uplyze." src="assets/banner-dark.svg" width="100%">
+  <img alt="LiamSDD, Applied AI Engineer and Claude Code specialist. I ship software, apps and products efficiently with AI in the loop: clean code, real harnesses, users first. Available for work, remote, EU and Canada. Founder of Aegis and Uplyze." src="assets/banner-dark.svg" width="100%">
 </picture>
 
 <a href="assets/demos/reel.mp4"><img src="assets/demos/reel.avif" alt="90-second reel of LiamSDD's projects" width="100%"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark-v5.svg">
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light-v5.svg">
-  <img alt="3,000+ licence activations with Aegis. 5 products built and shipped. About 2 years engineering with coding agents daily. 3,349 tests in my open-source projects." src="assets/stats-dark-v5.svg" width="100%">
+  <img alt="3,000+ licence activations with Aegis. 5 products built and shipped. About 2 years engineering with coding agents daily. 3,358 tests in my open-source projects." src="assets/stats-dark-v5.svg" width="100%">
 </picture>
 
 > **Hiring? Start here**<br>
@@ -40,7 +40,7 @@
 
 Software protection and licensing for games and desktop apps: code virtualisation, encryption at rest, licence keys and anti-tamper, enforced client and server side.
 
-**3,000+ licence activations** · founder and lead engineer<br>
+**3,000+ licence activations** · CEO, founder and AI engineer · May 2024 – Aug 2026<br>
 [shieldaegis.cloud](https://shieldaegis.cloud) · [video](assets/demos/aegis-demo-1080p60.mp4) · [case study](https://liamsdd.github.io/writing/aegis/) · private source
 
 </td>
@@ -81,7 +81,7 @@ Guardrails for AI coding agents: blocks destructive commands and leaked secrets,
 
 All-in-one growth AI for creators and businesses: AI replies and DMs, content, scheduling and insights in one place.
 
-**Live product** with paid plans<br>
+**Live product** with paid plans · CEO, founder and AI engineer · Jun 2025 – Oct 2026<br>
 [uplyze.ai](https://uplyze.ai) · [video](assets/demos/uplyze-demo-1080p60.mp4) · [case study](https://liamsdd.github.io/writing/uplyze/)
 
 </td>
@@ -96,7 +96,7 @@ All-in-one growth AI for creators and businesses: AI replies and DMs, content, s
 
 Shows where your Claude Code tokens and dollars go, then suggests savings with their impact.
 
-**136 tests** · 0 dependencies · offline<br>
+**145 tests** · 0 dependencies · offline<br>
 [source](https://github.com/LiamSDD/claude-ledger) · [video](assets/demos/claude-ledger-demo.mp4)
 
 </td>
